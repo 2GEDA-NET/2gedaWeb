@@ -1,0 +1,55 @@
+/* components/Comment.module.css */
+.comment {
+    display: flex;
+    align-items: flex-start;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+.userProfilePicture {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 12px;
+}
+
+.commentContent {
+    flex: 1;
+}
+
+.commentContent h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.commentContent p {
+    margin: 6px 0;
+}
+
+.timestamp {
+    font-size: 12px;
+    color: #999;
+}
+
+.postCommentSection {
+    display: flex;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.commentInput {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    resize: none;
+}
+
+.postButton {
+    background-color: #4267B2;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}

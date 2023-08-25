@@ -1,0 +1,46 @@
+/* components/CategoryCard.module.css */
+.categoryCard {
+  background: linear-gradient(180deg, #B469EF 0%, #4F0DA3 100%);
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.categories {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 16px;
+  align-items: start; /* Align items at the top */
+}
+
+.categoryItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  position: relative;
+  /* Add this to create a stacking context */
+}
+
+.categoryItem img {
+  width: 40px; /* Adjust the size of the image */
+  height: 40px; /* Adjust the size of the image */
+  border-radius: 50%;
+  padding: 10px;
+  background: white;
+  /* Add border to create the white circle background */
+}
+
+.categoryItem:before {
+  content: ''; /* Create a pseudo-element for the circle background */
+  position: absolute;
+  top: -20px; /* Adjust the negative top value to control the circle size */
+  left: -20px; /* Adjust the negative left value to control the circle size */
+  width: calc(100% + 40px); /* Adjust the width to create the larger circle */
+  height: calc(100% + 40px); /* Adjust the height to create the larger circle */
+  border-radius: 50%;
+  background-color: white;
+  z-index: -1; /* Push the background behind the image */
+}

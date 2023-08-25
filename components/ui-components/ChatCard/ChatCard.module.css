@@ -1,0 +1,35 @@
+/* components/ChatCard.module.css */
+
+.chatCard {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid #e0e0e0;
+    cursor: pointer;
+  }
+  
+  .profileImage {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  
+  .chatContent {
+    flex-grow: 1;
+  }
+  
+  .messageSnippet {
+    margin-top: 5px;
+    color: #777;
+    font-size: smaller;
+    width: 80%;
+  }
+  
+  .timestamp {
+    font-size: 10px;
+    color: #999;
+    width: auto;
+  }
+  

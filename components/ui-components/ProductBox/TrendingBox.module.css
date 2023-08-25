@@ -1,0 +1,6 @@
+.card {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    /* grid-gap: 1px; */
+    align-items: start; /* Align items at the top */
+  }

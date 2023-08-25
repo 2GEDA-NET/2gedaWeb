@@ -1,0 +1,64 @@
+/* components/PostCard.module.css */
+
+.postCard {
+    border: 1px solid #ccc;
+    /* width: 50%; */
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.postHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    margin-bottom: 12px;
+}
+
+.userProfilePicture {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 12px;
+}
+
+.postInfo h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.postInfo p {
+    font-size: 14px;
+    color: #666;
+}
+
+.postContent img {
+    width: 100%;
+    margin-top: 12px;
+}
+
+.postActions {
+    display: flex;
+    gap: 12px;
+    margin-top: 12px;
+}
+
+.likeButton,
+.commentButton,
+.shareButton {
+    border: none;
+    background-color: #f0f2f5;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.likeButton {
+    color: #4267B2;
+}
+
+.commentButton,
+.shareButton {
+    color: #999;
+}

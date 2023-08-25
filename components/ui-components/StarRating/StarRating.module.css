@@ -1,0 +1,16 @@
+.starRating {
+    display: inline-block;
+  }
+  
+  .starRating span {
+    display: inline-block;
+  }
+  
+  .starRating .filled {
+    color: gold; /* Change this to the desired filled star color */
+  }
+  
+  .starRating .empty {
+    color: lightgray; /* Change this to the desired empty star color */
+  }
+  
