@@ -8,7 +8,7 @@ const StarRating = ({ rating }) => {
     for (let i = 1; i <= 5; i++) {
       stars.push(
         <span key={i} className={i <= rating ? 'filled' : 'empty'}>
-          <FaStar />
+          <FaStar style={{color: '#FF5722',}}/>
         </span>
       );
     }

@@ -4,7 +4,7 @@ const TopBusinessCard = ({ topBusinessData }) => {
     return (
         <div>
             {topBusinessData.map(topBusiness => (
-                <div key={topBusiness.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', }}>
+                <div key={topBusiness.id} style={{ padding: '5px 20px',display: 'flex', justifyContent: 'space-between', alignItems: 'center', }}>
                     <div style={{ display: 'flex', alignItems: 'center', }}>
                         <div>
                             <img src={topBusiness.image} alt={topBusiness.name} />

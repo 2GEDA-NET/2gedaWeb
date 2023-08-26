@@ -6,7 +6,7 @@ const BusinessNav = () => {
     const router = useRouter();
     const handlePostSubmit = () => {
         // Use router.push to navigate to the "manage-business" page
-        router.push('/dashboard/manage-business');
+        router.push('/dashboard/business/manage-business');
     };
     return (
         <div className={styles.nav} >

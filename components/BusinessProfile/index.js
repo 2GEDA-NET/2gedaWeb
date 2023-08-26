@@ -1,13 +1,15 @@
 import React, { useState } from 'react'; // Import useState
-import styles from './ProfileImage.module.css';
-import ProfileNav from '@/components/ui-components/ProfileNav';
+import styles from './BusinessProfile.module.css';
 import ActionButton from '../ui-components/ActionButton';
 import { FaCamera } from 'react-icons/fa'; // Import the camera icon from react-icons
 import { useHistory } from 'react-router-dom'; // Import useHistory
 import Link from 'next/link';
+import StarRating from '../ui-components/StarRating';
 
 
-const ProfileImages = ({ coverImage, profileImage, name, bio, role, outlet, state, favQuote, posts, followers, following }) => {
+
+const BusinessProfile = ({ coverImage, profileImage, rating, name, state, posts, followers, following }) => {
+
     const [newImage, setNewImage] = useState(null); // Define newImage and setNewImage
 
 
@@ -18,10 +20,9 @@ const ProfileImages = ({ coverImage, profileImage, name, bio, role, outlet, stat
         }
     };
 
+
     return (
         <div className={styles.profileImageContainer}>
-            {/* <ProfileNav /> */}
-
             <div className={styles.coverImage}>
                 <img src={coverImage} alt="Cover" />
             </div>
@@ -44,21 +45,9 @@ const ProfileImages = ({ coverImage, profileImage, name, bio, role, outlet, stat
                 <div className={styles.profileInfo}>
                     <div>
                         <h2 className={styles.profileName}>{name}</h2>
-                        <p className={styles.profileBio}>{role}</p>
                         <p className={styles.profileBio}>{state}</p>
-                        <blockquote className={styles.profileBio}>
-                            <em>"{favQuote}"</em>
-                        </blockquote>
                     </div>
                     <div style={{ display: 'flex', justifyContent: 'space-between', }}>
-                        <div style={{ padding: '10px', }} >
-                            <ActionButton
-                                label="Following"
-                                inverse={true}
-                                onClick={() => handleButtonClick()}
-                                style={{ paddingLeft: '30px',paddingRight: '30px', margin: '0 20px', color: '#19A871', fontSize: '0.7em', borderColor: '#19A871' }}
-                            />
-                        </div>
                         <div className={styles.profileBox}>
                             <div>
                                 <p className={styles.heading} >Posts</p>
@@ -73,15 +62,11 @@ const ProfileImages = ({ coverImage, profileImage, name, bio, role, outlet, stat
                                 <p className={styles.subheading} >{followers}</p>
                             </div>
                         </div>
-                        <div style={{ padding: '10px', }} >
-                            <ActionButton
-                                label="Direct Message"
-                                inverse={true}
-                                onClick={() => handleButtonClick()}
-                                style={{ margin: '0 20px', fontSize: '0.7em', color: 'white', backgroundColor: 'black' }}
-                            />
-                        </div>
                     </div>
+                    <div style={{ margin: '10px', }}>
+                        <StarRating />
+                    </div>
+                    <p className={styles.subheading} >Average rating:{rating}</p>
                 </div>
             </div>
 
@@ -89,4 +74,4 @@ const ProfileImages = ({ coverImage, profileImage, name, bio, role, outlet, stat
     );
 };
 
-export default ProfileImages;
+export default BusinessProfile;

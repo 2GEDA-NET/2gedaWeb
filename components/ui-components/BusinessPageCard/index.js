@@ -1,8 +1,16 @@
 import React from 'react';
 import ActionButton from "../ActionButton";
+import { useRouter } from 'next/router';
 import StarRating from "../StarRating";
 
 const BusinessPageCard = ({ businessData }) => {
+
+    const router = useRouter();
+    const handleButtonClick = () => {
+        // Use router.push to navigate to the "manage-business" page
+        router.push('/dashboard/business/view-business-page');
+    };
+
     return (
         <div>
             {businessData.map(business => (
@@ -23,7 +31,7 @@ const BusinessPageCard = ({ businessData }) => {
                         <ActionButton
                             label='View Page'
                             inverse={true}
-                            // onClick={handlePostSubmit}
+                            onClick={handleButtonClick}
                             style={{ borderRadius: '10px', padding: '10px 40px'}}
                         />
                     </div>

@@ -46,7 +46,7 @@ const BusinessProfile = () => {
         <DashboardNavbar />
         <div style={{ display: "flex", marginTop: '40px',}}>
           <div style={{marginTop: '90px',}}>
-            {/* <ProfileNav/> */}
+            <ProfileNav/>
             <ProfileImages
               name={user.name}
               role={user.role}

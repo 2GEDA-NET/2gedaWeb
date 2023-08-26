@@ -56,7 +56,7 @@ const BusinessPage = () => {
     ]
 
     return (
-        <div style={{ margin: '60px 20px', borderRadius: '10px', padding: '20px', }}>
+        <div style={{ margin: '60px 20px', borderRadius: '10px', padding: '20px',}}>
             <h4 style={{ color: 'rgba(0 0 0 0.80)', marginBottom: '20px', }}>Your Business Pages</h4>
             <BusinessPageCard businessData={businessData} />
 

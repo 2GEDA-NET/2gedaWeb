@@ -1,0 +1,121 @@
+.profileImageContainer {
+    position: relative;
+    margin:0 20px;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    /* Center horizontally */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.coverImage img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.profilePicture {
+    position: absolute;
+    margin-top: -120px;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid white;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.profilePicture img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+.profileDetails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.profileInfo {
+    padding-top: 50px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.profileName {
+    font-size: 24px;
+}
+
+.profileBio {
+    font-size: 16px;
+    margin: 10px;
+    color: #555;
+}
+
+.profileBox {
+    background: #4F0DA3;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 8px;
+    /* height: 50%; */
+    display: flex;
+    justify-content: space-between;
+    /* margin: 10px; */
+}
+
+.heading {
+    font-weight: 10;
+    font-size: 0.8em;
+}
+
+.subheading {
+    font-weight: bolder;
+    font-size: 0.9;
+}
+
+.cameraIcon {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: #555;
+    font-size: 24px;
+}
+
+/* Style the label to cover the input */
+.cameraIcon label {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+
+.profile-navbar {
+  position: relative; /* Ensure relative positioning for dropdown */
+  /* ... other styles ... */
+}
+
+.menu-icon {
+  cursor: pointer;
+  font-size: 1.5em;
+  color: #555;
+}
+
+.dropdown-content {
+  position: absolute;
+  top: 100%; /* Position below the menu icon */
+  right: 0; /* Align with the right side of the icon */
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  display: block; /* Show the dropdown when isDropdownOpen is true */
+}
+

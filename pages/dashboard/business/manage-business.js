@@ -13,13 +13,13 @@ const ManageBusiness = () => {
                 <DashboardNavbar />
                 <div style={{ display: 'flex', justifyContent: 'space-between',  }}>
                     <ManageBusinessNav />
-                    <div style={{ background: 'white', paddingTop: '100px',}}>
-                        <div style={{ }}>
+                    <div style={{ background: 'white', paddingTop: '80px', margin: '20px', }}>
+                        <div style={{ width: '70vw',}}>
                             <BusinessPage />
                             <SuggestedBusiness />
                         </div>
                     </div>
-                    <div style={{ background: 'white', padding: '0px 20px',}}>
+                    <div style={{ background: 'white', padding: '50px 20px', }}>
                         <TopBusiness />
                         <Inventory />
                     </div>
