@@ -8,7 +8,7 @@ function FollowersCard({ followers }) {
         <span className={styles.seeAll}>See All</span>
       </div>
     <div className={styles.card}>
-      
+  
       <div className={styles.followersList}>
         {followers.map((follower) => (
           <div className={styles.follower} key={follower.id}>

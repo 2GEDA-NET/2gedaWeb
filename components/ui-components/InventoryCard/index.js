@@ -6,7 +6,7 @@ const InventoryCard = ({ inventoryData }) => {
         <div>
             {
                 inventoryData.map(inventory => (
-                    <div style={{ display: "flex", justifyContent: "space-between", margin: '7px', }}>
+                    <div key={inventory.id} style={{ display: "flex", justifyContent: "space-between", margin: '7px', }}>
                         <div style={{ display: "flex", }}>
                             <div>
                                 <img src={inventory.image} alt={inventory.name} />

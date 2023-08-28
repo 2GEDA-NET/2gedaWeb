@@ -49,9 +49,6 @@ const ProfileNav = () => {
     const handleOverlayClose = () => {
         setShowOverlay(false);
     };
-
-    
-
     return (
         <>
             <div className={styles.profileNavbar}>

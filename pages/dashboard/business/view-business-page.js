@@ -9,6 +9,7 @@ import ChatComponent from '@/components/ChatComponent';
 import ProfileImages from '@/components/ProfileImages';
 import BusinessProfile from '@/components/BusinessProfile';
 import BusinessProfileNav from '@/components/ui-components/BusinessProfileNav';
+import BusinessReview from '@/components/BusinessReview';
 
 
 
@@ -60,19 +61,20 @@ const ViewBusinessPage = () => {
                                 label={`Post(${user.posts})`}
                                 inverse={true}
                                 onClick={() => handleButtonClick('profilePost')}
-                                style={{ padding: '10px 250px', fontSize: '2em', border: '1px solid #c7c5c5a3', fontSize: '0.7em', color: 'black', }}
+                                style={{ padding: '10px 240px', fontSize: '2em', border: '1px solid #c7c5c5a3', fontSize: '0.7em', color: 'black', }}
                             />
                             <ActionButton
                                 label={`Outlet(${user.outlet})`}
                                 inverse={true}
                                 onClick={() => handleButtonClick('chat')}
-                                style={{ padding: '10px 250px', fontSize: '2em', border: '1px solid #c7c5c5a3', fontSize: '0.7em', color: 'black', }}
+                                style={{ padding: '10px 240px', fontSize: '2em', border: '1px solid #c7c5c5a3', fontSize: '0.7em', color: 'black', }}
                             />
                         </div>
                         <div style={{ margin: '0 5%', }}>
                             {displayComponent === 'profilePost' && <ProfilePost />}
                             {displayComponent === 'chat' && <ChatComponent />}
                         </div>
+                        <BusinessReview /> 
                     </div>
                 </div>
                 <div style={{ padding: '20px', background: 'white', }}>

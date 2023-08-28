@@ -16,7 +16,7 @@
 
 .profilePicture {
     position: absolute;
-    margin-top: -120px;
+    margin-top: -90px;
     top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -44,7 +44,7 @@
 }
 
 .profileInfo {
-    padding-top: 50px;
+    padding-top: 30px;
     align-items: center;
     text-align: center;
 

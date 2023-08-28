@@ -25,7 +25,7 @@ const Dashboard = () => {
     <>
       <BaseLayout>
         <DashboardNavbar />
-        <div style={{ display: "flex", }}>
+        <div style={{ display: "flex", margin: '80px 0', }}>
           <div>
             <PostTextarea onPostSubmit={handlePostSubmit} />
             <HBanner hbanner={'/assets/hbanner.png/'} />
@@ -37,7 +37,7 @@ const Dashboard = () => {
           <div>
             <Category />
             <Followers />
-            <ChatComponent/>
+            <ChatComponent />
 
           </div>
         </div>

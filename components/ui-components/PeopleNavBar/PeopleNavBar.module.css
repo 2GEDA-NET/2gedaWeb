@@ -1,5 +1,5 @@
 .profileNavbar {
-    width: 74vw;
+    width: 66vw;
     margin-top: 79px;
     margin-left: 80px;
     top: 0;
@@ -25,6 +25,7 @@
 
 .profileTitle {
     font-size: 1em;
+    margin: 5px 0;
     /* font-weight: bold; */
     /* color: #555; */
 }

@@ -1,9 +1,10 @@
 import Image from "next/image";
 import { AiOutlineHome } from "react-icons/ai";
+import { FaUsers } from 'react-icons/fa';
 import { BsPeople } from "react-icons/bs";
 import { TiContacts } from "react-icons/ti";
 import { TiBeer } from "react-icons/ti";
-import { FiMail, FiFileText, FiBarChart2 } from "react-icons/fi";
+import { FiMail, FiFileText,FiBarChart2 } from "react-icons/fi";
 import { AiOutlineFileText, AiOutlineLogin, AiOutlineLogout, AiOutlinePlusCircle } from "react-icons/ai";
 import { MdKeyboardArrowLeft, MdKeyboardArrowRight, MdBusiness } from "react-icons/md";
 import { useContext, useState } from "react";
@@ -27,7 +28,7 @@ const sidebarItems = [
   {
     name: "People",
     href: "/dashboard/people",
-    icon: FiFileText,
+    icon: FaUsers,
   },
   {
     name: "Messages",
