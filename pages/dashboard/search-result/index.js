@@ -1,5 +1,6 @@
 import BaseLayout from "@/components/BaseLayout";
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { useRouter } from 'next/router';
 import BusinessSearchResult from "@/components/BusinessSearchResult";
 import ChatComponent from "@/components/ChatComponent";
 import Inventory from "@/components/Inventory";
@@ -12,11 +13,19 @@ import MediaSearchResult from "@/components/MediaSearchResult";
 import PlacesSearchResult from "@/components/PlacesSearchResult";
 
 const SearchResultPage = () => {
+    const router = useRouter();
     const [activeButton, setActiveButton] = useState("People");
+    const [searchQuery, setSearchQuery] = useState(""); // State for storing the search query
 
     const handleButtonClick = (button) => {
         setActiveButton(button);
     };
+
+    useEffect(() => {
+        // Update the searchQuery state when the query parameter changes
+        const { query } = router.query;
+        setSearchQuery(query || ""); // Set to empty string if query is undefined
+    }, [router.query]);
 
     const renderSearchResult = () => {
         if (activeButton === "People") {
@@ -41,7 +50,7 @@ const SearchResultPage = () => {
                 <ArrowNav navTitle={'Search Result'} />
                 <div style={{ paddingTop: '150px', background: 'white', margin: '0 40px', }}>
                     <div style={{ display: 'flex', justifyContent: 'space-between', }}>
-                        <p style={{ margin: '10px', }}>Search for <em>Adeoye Hammed</em></p>
+                        <p style={{ margin: '10px', }}>Search for <em>{searchQuery}</em></p>
                         <ActionButton
                             label="People"
                             inverse={true}

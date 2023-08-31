@@ -18,7 +18,7 @@ const DashboardNavbar = ({ buttonLabel, handleButtonClick }) => {
   const handleSearchSubmit = (e) => {
     e.preventDefault();
     // Navigate to the search results page with the search query
-    router.push(`/search-results?query=${searchQuery}`);
+    router.push(`search-result?query=${searchQuery}`);
   };
 
 
