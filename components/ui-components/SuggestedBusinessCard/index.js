@@ -1,10 +1,11 @@
 import React from 'react';
 import ActionButton from "../ActionButton";
 import StarRating from "../StarRating";
+import styles from './SuggestedBusiness.module.css'
 
 const SuggestedBusinessCard = ({ suggestedBusinessData }) => {
     return (
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr', gridGap: '16px', alignStart: 'start' }}>
+        <div className={styles.card} style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr', gridGap: '16px', alignStart: 'start' }}>
             {suggestedBusinessData.map(suggestedBusiness => (
                 <div style={{ display: 'flex', justifyContent: 'space-between', margin: '10px', alignItems: 'center', }}>
                     <div style={{ display: 'flex', alignItems: 'center', }}>

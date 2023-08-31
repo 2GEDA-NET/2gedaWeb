@@ -14,6 +14,7 @@ import BusinessNav from '@/components/ui-components/BusinessNav';
 import SuggestedBusiness from '@/components/SuggestedBusiness';
 import ChatComponent from '@/components/ChatComponent';
 import Inventory from '@/components/Inventory';
+import styles from '@/pages/styles/global.module.css'
 
 
 const Business = () => {
@@ -21,7 +22,7 @@ const Business = () => {
         <BaseLayout>
             <DashboardNavbar />
             {/* <ProfileNav/> */}
-            <div style={{ display: 'flex' }}>
+            <div className={styles.container} style={{ display: 'flex' }}>
                 <div style={{ width: '130%', marginTop: '130px', }}>
                     <BusinessNav />
                     <Trending />

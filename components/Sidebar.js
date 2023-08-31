@@ -1,10 +1,10 @@
 import Image from "next/image";
 import { AiOutlineHome } from "react-icons/ai";
-import { FaUsers } from 'react-icons/fa';
+import { FaUsers, FaComments } from 'react-icons/fa';
 import { BsPeople } from "react-icons/bs";
 import { TiContacts } from "react-icons/ti";
 import { TiBeer } from "react-icons/ti";
-import { FiMail, FiFileText,FiBarChart2 } from "react-icons/fi";
+import { FiMail, FiFileText, FiBarChart2 } from "react-icons/fi";
 import { AiOutlineFileText, AiOutlineLogin, AiOutlineLogout, AiOutlinePlusCircle } from "react-icons/ai";
 import { MdKeyboardArrowLeft, MdKeyboardArrowRight, MdBusiness } from "react-icons/md";
 import { useContext, useState } from "react";
@@ -32,8 +32,8 @@ const sidebarItems = [
   },
   {
     name: "Messages",
-    href: "/dashboard/contact",
-    icon: TiContacts,
+    href: "/dashboard/message",
+    icon: FaComments,
   },
   {
     name: "Notification",
@@ -64,15 +64,14 @@ const Sidebar = () => {
           {sidebarItems.map(({ name, href, icon: Icon }) => {
             return (
               <li className="sidebar__item" key={name}>
-                <NextLink href={href} className={`sidebar__link ${
-                      router.pathname === href ? "sidebar__link--active" : ""
-                    }`}>
-                  
-                    <span className="sidebar__icon">
-                      <Icon />
-                    </span>
-                    <span className="sidebar__name">{name}</span>
-                  
+                <NextLink href={href} className={`sidebar__link ${router.pathname === href ? "sidebar__link--active" : ""
+                  }`}>
+
+                  <span className="sidebar__icon">
+                    <Icon />
+                  </span>
+                  <span className="sidebar__name">{name}</span>
+
                 </NextLink>
               </li>
             );

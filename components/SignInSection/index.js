@@ -9,14 +9,43 @@ const SignInSection = () => {
   const router = useRouter();
   const [signUpWithEmail, setSignUpWithEmail] = useState(true); // Default to email signup
   const [accountType, setAccountType] = useState('personal'); // Default account type is Personal
+  const [userInput, setUserInput] = useState(''); // Store user's email/phone input
 
-  const handleButtonClick = () => {
-    // Add your logic here to handle the submission based on the selected accountType
-    // For example, you can navigate to different pages based on the accountType
-    if (accountType === 'business') {
-      router.push('/business/');
-    } else if (accountType === 'personal') {
-      router.push('/personal/');
+
+  // const handleButtonClick = () => {
+  //   // Add your logic here to handle the submission based on the selected accountType
+  //   // For example, you can navigate to different pages based on the accountType
+  //   if (accountType === 'business') {
+  //     router.push('/business/');
+  //   } else if (accountType === 'personal') {
+  //     router.push('/personal/');
+  //   }
+  // };
+
+  const handleButtonClick = async () => {
+    const registrationEndpoint = 'https://api.2geda.net/auth/register';
+
+    const registrationData = {
+      [signUpWithEmail ? 'email' : 'phone']: userInput,
+      // You can add more fields here based on your registration requirements
+    };
+
+    try {
+      const response = await fetch(registrationEndpoint, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(registrationData),
+      });
+
+      if (response.ok) {
+        // Handle successful registration, e.g., navigate to a success page
+      } else {
+        // Handle registration failure, show error message, etc.
+      }
+    } catch (error) {
+      // Handle network or other errors
     }
   };
 
@@ -35,13 +64,23 @@ const SignInSection = () => {
         {signUpWithEmail ? ( // Conditional rendering based on email/phone signup state
           <div style={{ textAlign: 'left' }}>
             <p style={{ fontSize: '0.7em', fontWeight: 'bold' }}>Sign up with E-mail</p>
-            <Input type={'email'} placeholder={'Input email address'} />
+            <Input
+              type={'email'}
+              placeholder={'Input email address'}
+              value={userInput}
+              onChange={(event) => setUserInput(event.target.value)}
+            />
             <p style={{ fontSize: '0.6em' }}>We will verify the email to be sure it belongs to you</p>
           </div>
         ) : (
           <div style={{ textAlign: 'left' }}>
             <p style={{ fontSize: '0.7em', fontWeight: 'bold' }}>Sign up with Phone Number</p>
-            <Input type={'tel'} placeholder={'Input phone number'} />
+            <Input
+              type={'tel'}
+              placeholder={'Input phone number'}
+              value={userInput}
+              onChange={(event) => setUserInput(event.target.value)}
+            />
             <p style={{ fontSize: '0.6em' }}>We will send an OTP to your phone</p>
           </div>
         )}

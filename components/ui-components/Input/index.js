@@ -6,7 +6,7 @@ const Input = ({
     placeholder = '',
     label = '',
     onChange = () => {},
-    inputContainerStyle = {}
+    inputContainerStyle = {},
 }) => {
     return (
         <div 
@@ -20,6 +20,7 @@ const Input = ({
                 placeholder={placeholder}
                 label={label}
                 onChange={onChange}
+                
             />
         </div>
     );

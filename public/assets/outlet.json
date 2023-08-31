@@ -1,0 +1,946 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category_number": 1,
+      "category_uid": "e8272c6c-7497-4708-bf7c-32dc12fa360f",
+      "category_name": "Phones",
+      "is_enable": true,
+      "date_created": "2023-07-09T17:23:05.072Z",
+      "category_image": {
+        "id": 1,
+        "type": "image",
+        "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/phone_icon.jpeg",
+        "key": "business_asset/phone_icon.jpeg"
+      }
+    },
+    {
+      "id": 2,
+      "category_number": 2,
+      "category_uid": "72ee4b53-fe9f-44bc-9ecb-6967c97ccc11",
+      "category_name": "Laptops",
+      "is_enable": true,
+      "date_created": "2023-07-09T17:30:46.082Z",
+      "category_image": {
+        "id": 2,
+        "type": "image",
+        "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/laptop_icon.jpeg",
+        "key": "business_asset/laptop_icon.jpeg"
+      }
+    },
+    {
+      "id": 3,
+      "category_number": 3,
+      "category_uid": "1b9aded6-c712-4869-991f-7d70d885f62b",
+      "category_name": "Automobile",
+      "is_enable": true,
+      "date_created": "2023-07-09T17:31:29.902Z",
+      "category_image": {
+        "id": 3,
+        "type": "image",
+        "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/automobile_icon.png",
+        "key": "business_asset/automobile_icon.png"
+      }
+    },
+    {
+      "id": 4,
+      "category_number": 4,
+      "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+      "category_name": "Homes",
+      "is_enable": true,
+      "date_created": "2023-07-09T17:32:18.162Z",
+      "category_image": {
+        "id": 4,
+        "type": "image",
+        "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/home_icon.png",
+        "key": "business_asset/home_icon.png"
+      }
+    },
+    {
+      "id": 5,
+      "category_number": 5,
+      "category_uid": "753363bc-52e6-41f1-b3c6-2e54e9b513c8",
+      "category_name": "Food",
+      "is_enable": true,
+      "date_created": "2023-07-09T17:32:55.461Z",
+      "category_image": {
+        "id": 5,
+        "type": "image",
+        "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/food_icon.jpeg",
+        "key": "business_asset/food_icon.jpeg"
+      }
+    },
+    {
+      "id": 6,
+      "category_number": 6,
+      "category_uid": "71f49842-ad57-4655-8212-4c692b1f7f18",
+      "category_name": "Cloth",
+      "is_enable": true,
+      "date_created": "2023-07-09T18:33:09.661Z",
+      "category_image": {
+        "id": 6,
+        "type": "image",
+        "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/cloth_icon.png",
+        "key": "business_asset/cloth_icon.png"
+      }
+    }
+  ],
+  "items": {
+    "trending": [
+      {
+        "id": 12,
+        "product_uid": "89583ce3-1240-4240-b12d-8e55fb80bd0a",
+        "product_name": "Zara ",
+        "product_name_id": "zara-174243",
+        "product_link": "https://2geda.page.link/QPXwQAPUT2PzjHHs6",
+        "user_uid": "985cc49d-f9ee-437b-902a-8208a21290fd",
+        "business_uid": "344048ac-65a5-4ad3-bcee-17c43f40f17d",
+        "is_sold": false,
+        "desc": "Sneakers ",
+        "price": 30000,
+        "price_in_text": "30,000",
+        "tagLocation": "Oyo",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-08-10T19:37:19.405Z",
+        "date_updated": "2023-08-10T19:37:19.405Z",
+        "attachment": [
+          {
+            "key": "users_asset/16image_picker_03465C87-1541-4E07-B4C7-D9103EEF7A08-294-00000023896D3169.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/16image_picker_03465C87-1541-4E07-B4C7-D9103EEF7A08-294-00000023896D3169.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/17image_picker_CB1052A9-D3A6-49F8-97FC-922DA219CF75-294-000000238DBAC22E.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/17image_picker_CB1052A9-D3A6-49F8-97FC-922DA219CF75-294-000000238DBAC22E.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 6,
+          "category_number": 6,
+          "category_uid": "71f49842-ad57-4655-8212-4c692b1f7f18",
+          "category_name": "Cloth",
+          "is_enable": true,
+          "date_created": "2023-07-09T18:33:09.661Z"
+        }
+      },
+      {
+        "id": 3,
+        "product_uid": "968dfd27-3344-457c-bf9e-020fedaf9f5b",
+        "product_name": "Crocs Unisex-Adult Echo Clog",
+        "product_name_id": "crocs-unisex-adult-echo-clog363280",
+        "product_link": "https://2geda.page.link/vdWEEHD5GepJxNgr9",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "is_sold": false,
+        "desc": "100% Croslite\nImported\nEthylene Vinyl Acetate sole\nFind Your Size: Echo Clogs offer a roomy fit. We recommend sizing down (e.g. if you are an 8, size down to a 7).\nGet a Height Boost: Echo Clogs give you a 1.5 Inch height boost. Stand tall with this athletic foam style shoe. Elevate your game without compromising your look.\nIconic Comfort: These Crocs include Croslite construction, a LiteRide drop-in footbed and a heel pad on the back strap for extra comfort.\nEasy to Clean: These Crocs for men and women are easy to clean, just use soap/water and allow for a quick dry.\nShop with Confidence: Crocs products are backed by our 90-day manufacturer's warranty for high quality and authenticity. Terms and conditions apply.",
+        "price": 52500,
+        "price_in_text": "52,500",
+        "tagLocation": "FCT",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        },
+        "total_number_of_rate": 1,
+        "date_created": "2023-07-16T10:04:24.241Z",
+        "date_updated": "2023-07-29T13:27:32.528Z",
+        "attachment": [
+          {
+            "key": "users_asset/2081TL5zYkc+L._AC_UX695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2081TL5zYkc%2BL._AC_UX695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/21714o+hrUVbL._AC_UX695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/21714o%2BhrUVbL._AC_UX695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/2181s1Eq1mwlL._AC_UY695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2181s1Eq1mwlL._AC_UY695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/2271fghJKs+VL._AC_UX695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2271fghJKs%2BVL._AC_UX695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/2281TlcU-kHCL._AC_UY695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2281TlcU-kHCL._AC_UY695_.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 4,
+          "category_number": 4,
+          "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+          "category_name": "Homes",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:32:18.162Z"
+        }
+      },
+      {
+        "id": 5,
+        "product_uid": "3b6cdf8b-bdcb-4581-9d11-e239f359d493",
+        "product_name": "Crocs 7.0",
+        "product_name_id": "crocs-7.0377684",
+        "product_link": "https://2geda.page.link/PWRTWEziy1uMJVRF8",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "is_sold": false,
+        "desc": "Step into happiness with Crocs!\nThese comfy and colorful shoes are sure to brighten up\nyour day and put a smile on your face. Don't just take our\nword for it, slip into a pair and feel the joy for yourself",
+        "price": 15000,
+        "price_in_text": "15,000",
+        "tagLocation": "GombeImo",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-07-16T11:33:07.446Z",
+        "date_updated": "2023-07-16T11:33:07.446Z",
+        "attachment": [
+          {
+            "key": "users_asset/6Screenshot_20230716_122948_Instagram.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/6Screenshot_20230716_122948_Instagram.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 4,
+          "category_number": 4,
+          "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+          "category_name": "Homes",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:32:18.162Z"
+        }
+      },
+      {
+        "id": 13,
+        "product_uid": "ecbce718-af71-42b1-851d-ece6b97e6693",
+        "product_name": "Honda",
+        "product_name_id": "honda969553",
+        "product_link": "https://2geda.page.link/5dUvxczxAW2a6oFZ9",
+        "user_uid": "bbd6f5ef-744e-4235-9910-8cce076f336d",
+        "business_uid": "6103ff35-5900-420a-801f-be5d1222d950",
+        "is_sold": false,
+        "desc": "2014 Honda Accord EX L Mileage:50,888",
+        "price": 4000000,
+        "price_in_text": "4,000,000",
+        "tagLocation": "Rivers",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-08-27T15:13:18.714Z",
+        "date_updated": "2023-08-27T15:13:18.714Z",
+        "attachment": [
+          {
+            "key": "users_asset/131000250649.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/131000250649.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/141000250648.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/141000250648.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/151000250647.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/151000250647.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/161000250645.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/161000250645.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/171000250644.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/171000250644.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 3,
+          "category_number": 3,
+          "category_uid": "1b9aded6-c712-4869-991f-7d70d885f62b",
+          "category_name": "Automobile",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:31:29.902Z"
+        }
+      },
+      {
+        "id": 4,
+        "product_uid": "2a89b9d9-c7e9-4d1d-b272-706bdb83b44e",
+        "product_name": "Crocs 2.0",
+        "product_name_id": "crocs-2.0308663",
+        "product_link": "https://2geda.page.link/XqTSrwgfexL3fNAfA",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "is_sold": false,
+        "desc": "Need a little more comfort in your life?\nLook no further than Crocs! These versatile shoes are a\nmust-have for anyone who wants to prioritize comfort\nwithout sacrificing style. Trust us, your feet will thank you",
+        "price": 20000,
+        "price_in_text": "20,000",
+        "tagLocation": "Cross River",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-07-16T11:28:57.888Z",
+        "date_updated": "2023-07-16T11:28:57.888Z",
+        "attachment": [
+          {
+            "key": "users_asset/56Screenshot_20230716_122636_Instagram.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/56Screenshot_20230716_122636_Instagram.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 4,
+          "category_number": 4,
+          "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+          "category_name": "Homes",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:32:18.162Z"
+        }
+      }
+    ],
+    "Phones": [],
+    "Laptops": [],
+    "Automobile": [
+      {
+        "id": 13,
+        "product_uid": "ecbce718-af71-42b1-851d-ece6b97e6693",
+        "product_name": "Honda",
+        "product_name_id": "honda969553",
+        "product_link": "https://2geda.page.link/5dUvxczxAW2a6oFZ9",
+        "user_uid": "bbd6f5ef-744e-4235-9910-8cce076f336d",
+        "business_uid": "6103ff35-5900-420a-801f-be5d1222d950",
+        "is_sold": false,
+        "desc": "2014 Honda Accord EX L Mileage:50,888",
+        "price": 4000000,
+        "price_in_text": "4,000,000",
+        "tagLocation": "Rivers",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-08-27T15:13:18.714Z",
+        "date_updated": "2023-08-27T15:13:18.714Z",
+        "attachment": [
+          {
+            "key": "users_asset/131000250649.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/131000250649.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/141000250648.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/141000250648.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/151000250647.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/151000250647.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/161000250645.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/161000250645.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/171000250644.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/171000250644.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 3,
+          "category_number": 3,
+          "category_uid": "1b9aded6-c712-4869-991f-7d70d885f62b",
+          "category_name": "Automobile",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:31:29.902Z"
+        },
+        "business": {
+          "id": 265,
+          "business_uid": "6103ff35-5900-420a-801f-be5d1222d950",
+          "user_uid": "bbd6f5ef-744e-4235-9910-8cce076f336d",
+          "username": "2GEDA",
+          "username_lowercase": "2geda",
+          "password": "$2a$10$R8BhL20K.xMuE2r81lmUbuBRb30GXiCoMhM6aKPLaD4fIlXNMPrJK",
+          "business_name": "2GEDA",
+          "name_lowercase": "2geda",
+          "category": "Social Networking",
+          "subcategory": "Social Media Website",
+          "state": "nigeria 🇳🇬",
+          "account_link": "https://2geda.page.link/HNsYa7kXe15tozaNA",
+          "image_path": {
+            "key": "users_asset/18Social media DP1.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/18Social%20media%20DP1.jpg",
+            "type": "image"
+          },
+          "isAdmin": true,
+          "device_id": "c87FpcemtU4Cr5q0W_AD7N:APA91bHAIysHCIA9rdoQy5e-o3jCm_joPBn9E14cmwolIgRkC4oggHHAp5EG32_8KxPA_rViKFD2b-iSGjvam1xiD4wTL4KP161yn-6ZQlN1iWm8BqGEtihN7hMh9cp7zBJdptwUz_k5",
+          "year_founded": "2011-04-08T00:00:00.000Z",
+          "visibility": "public",
+          "location": null,
+          "availability": [
+            {
+              "to": "2023-08-07 23:59:00.000",
+              "from": "2023-08-07 00:00:00.000",
+              "dayOfTheWeek": "Mon"
+            },
+            {
+              "to": "2023-08-07 23:59:00.000",
+              "from": "2023-08-07 00:00:00.000",
+              "dayOfTheWeek": "Tue"
+            },
+            {
+              "to": "2023-08-07 23:59:00.000",
+              "from": "2023-08-07 00:00:00.000",
+              "dayOfTheWeek": "Wed"
+            },
+            {
+              "to": "2023-08-07 23:59:00.000",
+              "from": "2023-08-07 00:00:00.000",
+              "dayOfTheWeek": "Thur"
+            },
+            {
+              "to": "2023-08-07 23:59:00.000",
+              "from": "2023-08-07 00:00:00.000",
+              "dayOfTheWeek": "Fri"
+            },
+            {
+              "to": "2023-08-07 23:59:00.000",
+              "from": "2023-08-07 00:00:00.000",
+              "dayOfTheWeek": "Sat"
+            },
+            {
+              "to": "2023-08-07 23:59:00.000",
+              "from": "2023-08-07 00:00:00.000",
+              "dayOfTheWeek": "Sun"
+            }
+          ],
+          "account_verification": true,
+          "post_count": 31,
+          "followers": 18,
+          "following": 130
+        }
+      }
+    ],
+    "Homes": [
+      {
+        "id": 5,
+        "product_uid": "3b6cdf8b-bdcb-4581-9d11-e239f359d493",
+        "product_name": "Crocs 7.0",
+        "product_name_id": "crocs-7.0377684",
+        "product_link": "https://2geda.page.link/PWRTWEziy1uMJVRF8",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "is_sold": false,
+        "desc": "Step into happiness with Crocs!\nThese comfy and colorful shoes are sure to brighten up\nyour day and put a smile on your face. Don't just take our\nword for it, slip into a pair and feel the joy for yourself",
+        "price": 15000,
+        "price_in_text": "15,000",
+        "tagLocation": "GombeImo",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-07-16T11:33:07.446Z",
+        "date_updated": "2023-07-16T11:33:07.446Z",
+        "attachment": [
+          {
+            "key": "users_asset/6Screenshot_20230716_122948_Instagram.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/6Screenshot_20230716_122948_Instagram.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 4,
+          "category_number": 4,
+          "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+          "category_name": "Homes",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:32:18.162Z"
+        },
+        "business": {
+          "id": 4,
+          "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+          "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+          "username": "crocs",
+          "username_lowercase": "crocs",
+          "password": "$2a$10$2UYKCZ5Lvy5vbQ8Ud6Jr8.jpM1ZK07QBwxdAR36D02seQ5W4hzW6S",
+          "business_name": "Crocs",
+          "name_lowercase": "crocs",
+          "category": "Footwear ",
+          "subcategory": "Designers",
+          "state": "afghanistan 🇦🇫 ",
+          "account_link": "https://2geda.page.link/Tbq2yGwnQLF6vWrS6",
+          "image_path": {
+            "key": "users_asset/4171W+Zn1NgsL._AC_UY1000_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/4171W%2BZn1NgsL._AC_UY1000_.jpg",
+            "type": "image"
+          },
+          "isAdmin": true,
+          "device_id": "eDu6oUXFSnS4ouhciCC4X6:APA91bFlx6z1STicPv_cmfVnoccS2FDv_7RDw3pzNwwKkh92fFmWo5nQy1a33VEtaYWOVKKpjbslDskSgT29Tpcx9Vrv_HwZHGFgxAgiL-hBS1UEWB_fzzqZduGHRZ6CovzGboXsJV4d",
+          "year_founded": "2023-07-16T00:00:00.000Z",
+          "visibility": "public",
+          "location": null,
+          "availability": [
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Mon"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Tue"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Wed"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Thur"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Fri"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Sat"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Sun"
+            }
+          ],
+          "account_verification": false,
+          "post_count": 4,
+          "followers": 33,
+          "following": 50
+        }
+      },
+      {
+        "id": 4,
+        "product_uid": "2a89b9d9-c7e9-4d1d-b272-706bdb83b44e",
+        "product_name": "Crocs 2.0",
+        "product_name_id": "crocs-2.0308663",
+        "product_link": "https://2geda.page.link/XqTSrwgfexL3fNAfA",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "is_sold": false,
+        "desc": "Need a little more comfort in your life?\nLook no further than Crocs! These versatile shoes are a\nmust-have for anyone who wants to prioritize comfort\nwithout sacrificing style. Trust us, your feet will thank you",
+        "price": 20000,
+        "price_in_text": "20,000",
+        "tagLocation": "Cross River",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-07-16T11:28:57.888Z",
+        "date_updated": "2023-07-16T11:28:57.888Z",
+        "attachment": [
+          {
+            "key": "users_asset/56Screenshot_20230716_122636_Instagram.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/56Screenshot_20230716_122636_Instagram.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 4,
+          "category_number": 4,
+          "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+          "category_name": "Homes",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:32:18.162Z"
+        },
+        "business": {
+          "id": 4,
+          "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+          "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+          "username": "crocs",
+          "username_lowercase": "crocs",
+          "password": "$2a$10$2UYKCZ5Lvy5vbQ8Ud6Jr8.jpM1ZK07QBwxdAR36D02seQ5W4hzW6S",
+          "business_name": "Crocs",
+          "name_lowercase": "crocs",
+          "category": "Footwear ",
+          "subcategory": "Designers",
+          "state": "afghanistan 🇦🇫 ",
+          "account_link": "https://2geda.page.link/Tbq2yGwnQLF6vWrS6",
+          "image_path": {
+            "key": "users_asset/4171W+Zn1NgsL._AC_UY1000_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/4171W%2BZn1NgsL._AC_UY1000_.jpg",
+            "type": "image"
+          },
+          "isAdmin": true,
+          "device_id": "eDu6oUXFSnS4ouhciCC4X6:APA91bFlx6z1STicPv_cmfVnoccS2FDv_7RDw3pzNwwKkh92fFmWo5nQy1a33VEtaYWOVKKpjbslDskSgT29Tpcx9Vrv_HwZHGFgxAgiL-hBS1UEWB_fzzqZduGHRZ6CovzGboXsJV4d",
+          "year_founded": "2023-07-16T00:00:00.000Z",
+          "visibility": "public",
+          "location": null,
+          "availability": [
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Mon"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Tue"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Wed"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Thur"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Fri"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Sat"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Sun"
+            }
+          ],
+          "account_verification": false,
+          "post_count": 4,
+          "followers": 33,
+          "following": 50
+        }
+      },
+      {
+        "id": 3,
+        "product_uid": "968dfd27-3344-457c-bf9e-020fedaf9f5b",
+        "product_name": "Crocs Unisex-Adult Echo Clog",
+        "product_name_id": "crocs-unisex-adult-echo-clog363280",
+        "product_link": "https://2geda.page.link/vdWEEHD5GepJxNgr9",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "is_sold": false,
+        "desc": "100% Croslite\nImported\nEthylene Vinyl Acetate sole\nFind Your Size: Echo Clogs offer a roomy fit. We recommend sizing down (e.g. if you are an 8, size down to a 7).\nGet a Height Boost: Echo Clogs give you a 1.5 Inch height boost. Stand tall with this athletic foam style shoe. Elevate your game without compromising your look.\nIconic Comfort: These Crocs include Croslite construction, a LiteRide drop-in footbed and a heel pad on the back strap for extra comfort.\nEasy to Clean: These Crocs for men and women are easy to clean, just use soap/water and allow for a quick dry.\nShop with Confidence: Crocs products are backed by our 90-day manufacturer's warranty for high quality and authenticity. Terms and conditions apply.",
+        "price": 52500,
+        "price_in_text": "52,500",
+        "tagLocation": "FCT",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        },
+        "total_number_of_rate": 1,
+        "date_created": "2023-07-16T10:04:24.241Z",
+        "date_updated": "2023-07-29T13:27:32.528Z",
+        "attachment": [
+          {
+            "key": "users_asset/2081TL5zYkc+L._AC_UX695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2081TL5zYkc%2BL._AC_UX695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/21714o+hrUVbL._AC_UX695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/21714o%2BhrUVbL._AC_UX695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/2181s1Eq1mwlL._AC_UY695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2181s1Eq1mwlL._AC_UY695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/2271fghJKs+VL._AC_UX695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2271fghJKs%2BVL._AC_UX695_.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/2281TlcU-kHCL._AC_UY695_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2281TlcU-kHCL._AC_UY695_.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 4,
+          "category_number": 4,
+          "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+          "category_name": "Homes",
+          "is_enable": true,
+          "date_created": "2023-07-09T17:32:18.162Z"
+        },
+        "business": {
+          "id": 4,
+          "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+          "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+          "username": "crocs",
+          "username_lowercase": "crocs",
+          "password": "$2a$10$2UYKCZ5Lvy5vbQ8Ud6Jr8.jpM1ZK07QBwxdAR36D02seQ5W4hzW6S",
+          "business_name": "Crocs",
+          "name_lowercase": "crocs",
+          "category": "Footwear ",
+          "subcategory": "Designers",
+          "state": "afghanistan 🇦🇫 ",
+          "account_link": "https://2geda.page.link/Tbq2yGwnQLF6vWrS6",
+          "image_path": {
+            "key": "users_asset/4171W+Zn1NgsL._AC_UY1000_.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/4171W%2BZn1NgsL._AC_UY1000_.jpg",
+            "type": "image"
+          },
+          "isAdmin": true,
+          "device_id": "eDu6oUXFSnS4ouhciCC4X6:APA91bFlx6z1STicPv_cmfVnoccS2FDv_7RDw3pzNwwKkh92fFmWo5nQy1a33VEtaYWOVKKpjbslDskSgT29Tpcx9Vrv_HwZHGFgxAgiL-hBS1UEWB_fzzqZduGHRZ6CovzGboXsJV4d",
+          "year_founded": "2023-07-16T00:00:00.000Z",
+          "visibility": "public",
+          "location": null,
+          "availability": [
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Mon"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Tue"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Wed"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Thur"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Fri"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Sat"
+            },
+            {
+              "to": "2023-07-16 23:59:00.000",
+              "from": "2023-07-16 00:00:00.000",
+              "dayOfTheWeek": "Sun"
+            }
+          ],
+          "account_verification": false,
+          "post_count": 4,
+          "followers": 33,
+          "following": 50
+        }
+      }
+    ],
+    "Food": [],
+    "Cloth": [
+      {
+        "id": 12,
+        "product_uid": "89583ce3-1240-4240-b12d-8e55fb80bd0a",
+        "product_name": "Zara ",
+        "product_name_id": "zara-174243",
+        "product_link": "https://2geda.page.link/QPXwQAPUT2PzjHHs6",
+        "user_uid": "985cc49d-f9ee-437b-902a-8208a21290fd",
+        "business_uid": "344048ac-65a5-4ad3-bcee-17c43f40f17d",
+        "is_sold": false,
+        "desc": "Sneakers ",
+        "price": 30000,
+        "price_in_text": "30,000",
+        "tagLocation": "Oyo",
+        "is_promoted": false,
+        "promotion_end_date": "1990-02-18T00:00:00.000Z",
+        "rating": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "total_number_of_rate": 0,
+        "date_created": "2023-08-10T19:37:19.405Z",
+        "date_updated": "2023-08-10T19:37:19.405Z",
+        "attachment": [
+          {
+            "key": "users_asset/16image_picker_03465C87-1541-4E07-B4C7-D9103EEF7A08-294-00000023896D3169.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/16image_picker_03465C87-1541-4E07-B4C7-D9103EEF7A08-294-00000023896D3169.jpg",
+            "type": "image"
+          },
+          {
+            "key": "users_asset/17image_picker_CB1052A9-D3A6-49F8-97FC-922DA219CF75-294-000000238DBAC22E.jpg",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/17image_picker_CB1052A9-D3A6-49F8-97FC-922DA219CF75-294-000000238DBAC22E.jpg",
+            "type": "image"
+          }
+        ],
+        "time_in_sec": null,
+        "hate_this": null,
+        "category": {
+          "id": 6,
+          "category_number": 6,
+          "category_uid": "71f49842-ad57-4655-8212-4c692b1f7f18",
+          "category_name": "Cloth",
+          "is_enable": true,
+          "date_created": "2023-07-09T18:33:09.661Z"
+        },
+        "business": {
+          "id": 266,
+          "business_uid": "344048ac-65a5-4ad3-bcee-17c43f40f17d",
+          "user_uid": "985cc49d-f9ee-437b-902a-8208a21290fd",
+          "username": "Oluwayomi",
+          "username_lowercase": "oluwayomi",
+          "password": "$2a$10$WMNg0xPwiIC7nhyPR0t2zePYUlJ1aBKMobAC1KHVYm9g7TRI790ry",
+          "business_name": "Ace Graffix",
+          "name_lowercase": "ace graffix",
+          "category": "UIUX design",
+          "subcategory": "UIUX design",
+          "state": "ibadan",
+          "account_link": "https://2geda.page.link/WJfUV51pXjvRgswB6",
+          "image_path": {
+            "key": "business_icon.png",
+            "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/business_icon.png",
+            "type": "image"
+          },
+          "isAdmin": true,
+          "device_id": "fI_jdsUp9kohop55I_BZTn:APA91bE8TA7RNz2Z4LKMr75ZRuaLE8QL8PS1V4CHzVMM6ZlLghWlh-uksheRodS9_g1UAeimv2Elj5-1xUKKRlyfz5hYHJOEhqVt4V6XM82B7ForSdsSYZ1N08cxrAbX0R2bmTue6657",
+          "year_founded": "2021-11-01T00:00:00.000Z",
+          "visibility": "public",
+          "location": null,
+          "availability": [
+            {
+              "to": "2023-08-09 23:59:00.000",
+              "from": "2023-08-09 00:00:00.000",
+              "dayOfTheWeek": "Mon"
+            },
+            {
+              "to": "2023-08-09 23:59:00.000",
+              "from": "2023-08-09 00:00:00.000",
+              "dayOfTheWeek": "Tue"
+            },
+            {
+              "to": "2023-08-09 23:59:00.000",
+              "from": "2023-08-09 00:00:00.000",
+              "dayOfTheWeek": "Wed"
+            },
+            {
+              "to": "2023-08-09 23:59:00.000",
+              "from": "2023-08-09 00:00:00.000",
+              "dayOfTheWeek": "Thur"
+            },
+            {
+              "to": "2023-08-09 23:59:00.000",
+              "from": "2023-08-09 00:00:00.000",
+              "dayOfTheWeek": "Fri"
+            },
+            {
+              "to": "2023-08-09 23:59:00.000",
+              "from": "2023-08-09 00:00:00.000",
+              "dayOfTheWeek": "Sat"
+            },
+            {
+              "to": "2023-08-09 23:59:00.000",
+              "from": "2023-08-09 00:00:00.000",
+              "dayOfTheWeek": "Sun"
+            }
+          ],
+          "account_verification": false,
+          "post_count": 1,
+          "followers": 7,
+          "following": 1
+        }
+      }
+    ]
+  }
+}

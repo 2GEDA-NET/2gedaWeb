@@ -1,15 +1,25 @@
 .followersList {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 10px;
+}
+
+.follower {
+  margin-bottom: 10px;
+}
+
+.follower img {
+  border-radius: 10px;
+  object-fit: cover;
+  margin-bottom: 5px;
+}
+
+
+
+/* Add media query to change the layout on smaller screens */
+@media (max-width: 768px) {
+  .followersList {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
-    gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
   }
-  
-.follower{
-    margin-bottom: 10px;
-}  
-  .follower img {
-    border-radius: 10px;
-    object-fit: cover;
-    margin-bottom: 5px;
-  }
-  
+}

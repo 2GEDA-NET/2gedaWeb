@@ -1,61 +1,24 @@
+import React, { useState, useEffect } from 'react';
 import ProductBox from '../ui-components/ProductBox';
 import TrendingBox from '../ui-components/ProductBox'
 
 const Trending = () => {
+        const [trendingData, setTrendingData] = useState([]);
 
-    const trendingData = [
-        {
-            id: 1,
-            image: '/assets/trendingImg1.png',
-            name: 'Semi detached duplex',
-            price: '#200,000',
-            location: 'Lekki, Lagos',
-        },
-        {
-            id: 2,
-            image: '/assets/trendingImg2.png',
-            name: 'Semi detached duplex',
-            price: '#200,000',
-            location: 'Lekki, Lagos',
-        },
-        {
-            id: 3,
-            image: '/assets/trendingImg3.png',
-            name: 'Semi detached duplex',
-            price: '#200,000',
-            location: 'Lekki, Lagos',
-        },
-        {
-            id: 4,
-            image: '/assets/trendingImg4.png',
-            name: 'Semi detached duplex',
-            price: '#200,000',
-            location: 'Lekki, Lagos',
-        },
-        {
-            id: 5,
-            image: '/assets/trendingImg5.png',
-            name: 'Semi detached duplex',
-            price: '#200,000',
-            location: 'Lekki, Lagos',
-        },
-        {
-            id: 6,
-            image: '/assets/trendingImg6.png',
-            name: 'Semi detached duplex',
-            price: '#200,000',
-            location: 'Lekki, Lagos',
-        },
-        
-        {
-            id: 7,
-            image: '/assets/trendingImg7.png',
-            name: 'Semi detached duplex',
-            price: '#200,000',
-            location: 'Lekki, Lagos',
-        },
-    ]
+    useEffect(() => {
+        // Fetch category data from the API
+        fetch('https://api.2geda.net/store/outlet-items')
+            .then(response => response.json())
+            .then(data => {
+                setTrendingData(data.items.trending);
+            })
+            .catch(error => {
+                console.error('Error fetching category data:', error);
+            });
+    }, []);
 
+
+    
     return (
         <>
             <div style={{margin: '20px', background: 'white', borderRadius: '10px', padding: '20px',}}>

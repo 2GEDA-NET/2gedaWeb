@@ -7,12 +7,13 @@ import PeopleNavBar from "@/components/ui-components/PeopleNavBar";
 import ActionButton from "@/components/ui-components/ActionButton";
 import HBanner from "@/components/ui-components/HBanner";
 import SuggestionSection from "@/components/Suggestions";
+import styles from '@/pages/styles/global.module.css'
 
 const People = () => {
     return (
         <BaseLayout>
             <DashboardNavbar />
-            <div style={{ display: "flex", }}>
+            <div className={styles.container} style={{ display: "flex", }}>
                 <PeopleNavBar />
                 <div style={{ marginTop: '100px', }}>
                     <div style={{ background: 'white', margin: '20px', }}>

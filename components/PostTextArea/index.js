@@ -15,24 +15,45 @@ const PostTextarea = ({ onPostSubmit }) => {
 
     const fileInputRef = useRef(null); // Create a ref for the file input element
 
-    const handlePostSubmit = () => {
-        if (postText.trim() !== '' || uploadedImages.length > 0 || uploadedVideos.length > 0) {
-            // Simulate a delay of 1.5 seconds (1500 milliseconds)
-            setTimeout(() => {
-                const newPost = {
-                    text: postText,
-                    images: uploadedImages,
-                    videos: uploadedVideos,
-                    timestamp: new Date().toLocaleString(),
-                    user: { name: 'John Doe', location: 'City' } // Replace with actual user data
-                };
-                setPosts([newPost, ...posts]); // Add the new post to the list of posts
-                setPostText('');
-                setUploadedImages([]);
-                setUploadedVideos([]);
-            }, 1500);
+    const createPost = async () => {
+        try {
+          const formData = new FormData();
+          formData.append('text', postText);
+          uploadedImages.forEach((image) => {
+            formData.append('images', image);
+          });
+          uploadedVideos.forEach((video) => {
+            formData.append('videos', video);
+          });
+    
+          const response = await fetch('https://api.2geda.net/posts/create-post', {
+            method: 'POST',
+            body: formData,
+            headers: {
+              Authorization: 'Bearer YOUR_ACCESS_TOKEN',
+            },
+          });
+    
+          if (response.ok) {
+            // Post created successfully
+            setPostText('');
+            setUploadedImages([]);
+            setUploadedVideos([]);
+            onPostSubmit(); // Optionally, trigger a callback to refresh the feed
+          } else {
+            // Handle error
+            console.error('Error creating post');
+          }
+        } catch (error) {
+          console.error('Error creating post', error);
         }
-    };
+      };
+
+      const handlePostSubmit = () => {
+        if (postText.trim() !== '' || uploadedImages.length > 0 || uploadedVideos.length > 0) {
+          createPost(); // Call the API function to create the post
+        }
+      };
 
     const handleEmojiSelect = (emoji) => {
         setPostText(postText + emoji.native);

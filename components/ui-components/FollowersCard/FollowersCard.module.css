@@ -37,3 +37,13 @@
     margin-bottom: 5px;
   }
   
+
+   
+/* Add media query to change the layout on smaller screens */
+/* @media (max-width: 768px) {
+  .card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+  }
+} */

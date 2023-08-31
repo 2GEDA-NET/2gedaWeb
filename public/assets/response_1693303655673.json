@@ -1,0 +1,2433 @@
+{
+  "posts": [
+    {
+      "id": 2133,
+      "post_uid": "81e8f7e2-06c4-4b39-81e3-78ff884c6ec4",
+      "post_link": "https://2geda.page.link/tjxE4tTtWhx8JZYcA",
+      "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+      "account_id": "ac916c28-e007-4075-bf30-3b1b5748642a",
+      "is_visible": true,
+      "post_text": "city today",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.572939,
+          7.5045938
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:54:08.869Z",
+      "date_created": "2023-08-29T08:54:08.869Z",
+      "attachment": [
+        {
+          "key": "users_asset/7IMG_20230829_092640_423.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/7IMG_20230829_092640_423.jpg",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 141,
+        "personal_uid": "ac916c28-e007-4075-bf30-3b1b5748642a",
+        "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+        "first_name": "City",
+        "last_name": "Today",
+        "name_lowercase": "city today",
+        "username": "citytoday",
+        "username_lowercase": "citytoday",
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "account_link": "https://2geda.page.link/BZrSyk3kmKuj8vX86",
+        "state": "canada 🇨🇦",
+        "occupation": "journalism",
+        "image_path": {
+          "key": "users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "type": "image"
+        },
+        "gender": "female",
+        "date_of_birth": "2023-08-08T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 162,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2132,
+      "post_uid": "bbb7f3c8-c449-49ac-9e9f-ff8150a9b404",
+      "post_link": "https://2geda.page.link/M9rbWCbXWjqFisCSA",
+      "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+      "account_id": "ac916c28-e007-4075-bf30-3b1b5748642a",
+      "is_visible": true,
+      "post_text": "city today",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5729394,
+          7.5045471
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:53:37.455Z",
+      "date_created": "2023-08-29T08:53:37.455Z",
+      "attachment": [
+        {
+          "key": "users_asset/36IMG_20230829_092633_642.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/36IMG_20230829_092633_642.jpg",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 141,
+        "personal_uid": "ac916c28-e007-4075-bf30-3b1b5748642a",
+        "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+        "first_name": "City",
+        "last_name": "Today",
+        "name_lowercase": "city today",
+        "username": "citytoday",
+        "username_lowercase": "citytoday",
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "account_link": "https://2geda.page.link/BZrSyk3kmKuj8vX86",
+        "state": "canada 🇨🇦",
+        "occupation": "journalism",
+        "image_path": {
+          "key": "users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "type": "image"
+        },
+        "gender": "female",
+        "date_of_birth": "2023-08-08T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 162,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2131,
+      "post_uid": "b9bb0a8f-a4b9-46f5-9efa-c387841d4b6b",
+      "post_link": "https://2geda.page.link/FapATorNqBmVnr8x8",
+      "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+      "account_id": "ac916c28-e007-4075-bf30-3b1b5748642a",
+      "is_visible": true,
+      "post_text": "city today",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5729379,
+          7.5046059
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:42:21.963Z",
+      "date_created": "2023-08-29T08:42:21.963Z",
+      "attachment": [
+        {
+          "key": "users_asset/20IMG_20230829_092645_337.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/20IMG_20230829_092645_337.jpg",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 141,
+        "personal_uid": "ac916c28-e007-4075-bf30-3b1b5748642a",
+        "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+        "first_name": "City",
+        "last_name": "Today",
+        "name_lowercase": "city today",
+        "username": "citytoday",
+        "username_lowercase": "citytoday",
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "account_link": "https://2geda.page.link/BZrSyk3kmKuj8vX86",
+        "state": "canada 🇨🇦",
+        "occupation": "journalism",
+        "image_path": {
+          "key": "users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "type": "image"
+        },
+        "gender": "female",
+        "date_of_birth": "2023-08-08T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 162,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2130,
+      "post_uid": "98034b13-9d0c-4983-8dff-dba9226b5af7",
+      "post_link": "https://2geda.page.link/C3uXEqY15kNAPcBz5",
+      "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+      "account_id": "ac916c28-e007-4075-bf30-3b1b5748642a",
+      "is_visible": true,
+      "post_text": "city today",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.57294,
+          7.5045994
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:30:48.497Z",
+      "date_created": "2023-08-29T08:30:48.497Z",
+      "attachment": [
+        {
+          "key": "users_asset/47IMG_20230829_092647_293.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/47IMG_20230829_092647_293.jpg",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 141,
+        "personal_uid": "ac916c28-e007-4075-bf30-3b1b5748642a",
+        "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+        "first_name": "City",
+        "last_name": "Today",
+        "name_lowercase": "city today",
+        "username": "citytoday",
+        "username_lowercase": "citytoday",
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "account_link": "https://2geda.page.link/BZrSyk3kmKuj8vX86",
+        "state": "canada 🇨🇦",
+        "occupation": "journalism",
+        "image_path": {
+          "key": "users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "type": "image"
+        },
+        "gender": "female",
+        "date_of_birth": "2023-08-08T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 162,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2129,
+      "post_uid": "fdc26f21-4767-4d18-84d8-c1374dff2efd",
+      "post_link": "https://2geda.page.link/W7n1LQbEcgwAcGU66",
+      "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+      "account_id": "ac916c28-e007-4075-bf30-3b1b5748642a",
+      "is_visible": true,
+      "post_text": "city today",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5729422,
+          7.5045804
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:29:33.503Z",
+      "date_created": "2023-08-29T08:29:33.503Z",
+      "attachment": [
+        {
+          "key": "users_asset/32IMG_20230829_092648_902.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/32IMG_20230829_092648_902.jpg",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 141,
+        "personal_uid": "ac916c28-e007-4075-bf30-3b1b5748642a",
+        "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+        "first_name": "City",
+        "last_name": "Today",
+        "name_lowercase": "city today",
+        "username": "citytoday",
+        "username_lowercase": "citytoday",
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "account_link": "https://2geda.page.link/BZrSyk3kmKuj8vX86",
+        "state": "canada 🇨🇦",
+        "occupation": "journalism",
+        "image_path": {
+          "key": "users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "type": "image"
+        },
+        "gender": "female",
+        "date_of_birth": "2023-08-08T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 162,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2128,
+      "post_uid": "f6e88f94-e88a-4b4a-b85f-bd0c2850416d",
+      "post_link": "https://2geda.page.link/4Ta5FrwL5YkKcAyS7",
+      "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+      "account_id": "ac916c28-e007-4075-bf30-3b1b5748642a",
+      "is_visible": true,
+      "post_text": "city today ",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5729423,
+          7.5045851
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:28:50.670Z",
+      "date_created": "2023-08-29T08:28:50.670Z",
+      "attachment": [
+        {
+          "key": "users_asset/49IMG_20230829_092651_206.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/49IMG_20230829_092651_206.jpg",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 141,
+        "personal_uid": "ac916c28-e007-4075-bf30-3b1b5748642a",
+        "user_uid": "507e4a28-1e97-4768-be2e-15ffcb4f8d0a",
+        "first_name": "City",
+        "last_name": "Today",
+        "name_lowercase": "city today",
+        "username": "citytoday",
+        "username_lowercase": "citytoday",
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "account_link": "https://2geda.page.link/BZrSyk3kmKuj8vX86",
+        "state": "canada 🇨🇦",
+        "occupation": "journalism",
+        "image_path": {
+          "key": "users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/5067324831-template-design-of-the-city-logo-vector-illustration-of-icon.jpg",
+          "type": "image"
+        },
+        "gender": "female",
+        "date_of_birth": "2023-08-08T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 162,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2127,
+      "post_uid": "6a8e820e-0444-423c-93a5-e00786093c04",
+      "post_link": "https://2geda.page.link/L8mxyw3NZdxVF9uu6",
+      "user_uid": "15f4ce9c-b809-47d9-9f0b-21fdd049b4a3",
+      "account_id": "eb63f7cb-9eee-4c8d-8c0a-0033ed8dbfb7",
+      "is_visible": true,
+      "post_text": "",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5729397,
+          7.5046004
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 4,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:24:16.988Z",
+      "date_created": "2023-08-29T08:24:16.988Z",
+      "attachment": [
+        {
+          "key": "users_asset/15Screenshot_20230828-122933.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/15Screenshot_20230828-122933.png",
+          "type": "image"
+        }
+      ],
+      "person": null,
+      "business": {
+        "id": 261,
+        "business_uid": "eb63f7cb-9eee-4c8d-8c0a-0033ed8dbfb7",
+        "user_uid": "15f4ce9c-b809-47d9-9f0b-21fdd049b4a3",
+        "username": "jokes",
+        "username_lowercase": "jokes",
+        "password": "$2a$10$X62nvOV/0gVQPrNdbD4GWuHG/72Gz4qaa5bH3uZVonooM.RRdpFHe",
+        "business_name": "Comedy Central",
+        "name_lowercase": "comedy central",
+        "category": "Funny",
+        "subcategory": "Jokes 🤣🤣🤣🤣",
+        "state": "united kingdom 🇬🇧",
+        "account_link": "https://2geda.page.link/NBNvqWLGvrFxh9ADA",
+        "image_path": {
+          "key": "users_asset/40png-transparent-comedy-central-comedian-logo-television-comedy-design-television-text-logo.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/40png-transparent-comedy-central-comedian-logo-television-comedy-design-television-text-logo.png",
+          "type": "image"
+        },
+        "isAdmin": true,
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "year_founded": "2023-08-07T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "availability": [
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Mon"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Tue"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Wed"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Thur"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Fri"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Sat"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Sun"
+          }
+        ],
+        "account_verification": false,
+        "post_count": 128,
+        "followers": 10,
+        "following": 7
+      }
+    },
+    {
+      "id": 2126,
+      "post_uid": "98000301-f975-4f4f-9c18-e4877ceb0517",
+      "post_link": "https://2geda.page.link/KNt4zhsRrAquyS5F8",
+      "user_uid": "15f4ce9c-b809-47d9-9f0b-21fdd049b4a3",
+      "account_id": "eb63f7cb-9eee-4c8d-8c0a-0033ed8dbfb7",
+      "is_visible": true,
+      "post_text": "",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5729398,
+          7.5045983
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 3,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-29T08:23:44.019Z",
+      "date_created": "2023-08-29T08:23:44.019Z",
+      "attachment": [
+        {
+          "key": "users_asset/42Screenshot_20230828-192700.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/42Screenshot_20230828-192700.png",
+          "type": "image"
+        }
+      ],
+      "person": null,
+      "business": {
+        "id": 261,
+        "business_uid": "eb63f7cb-9eee-4c8d-8c0a-0033ed8dbfb7",
+        "user_uid": "15f4ce9c-b809-47d9-9f0b-21fdd049b4a3",
+        "username": "jokes",
+        "username_lowercase": "jokes",
+        "password": "$2a$10$X62nvOV/0gVQPrNdbD4GWuHG/72Gz4qaa5bH3uZVonooM.RRdpFHe",
+        "business_name": "Comedy Central",
+        "name_lowercase": "comedy central",
+        "category": "Funny",
+        "subcategory": "Jokes 🤣🤣🤣🤣",
+        "state": "united kingdom 🇬🇧",
+        "account_link": "https://2geda.page.link/NBNvqWLGvrFxh9ADA",
+        "image_path": {
+          "key": "users_asset/40png-transparent-comedy-central-comedian-logo-television-comedy-design-television-text-logo.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/40png-transparent-comedy-central-comedian-logo-television-comedy-design-television-text-logo.png",
+          "type": "image"
+        },
+        "isAdmin": true,
+        "device_id": "eCdgIqgJRrCvdAFksuQZ7J:APA91bEd_2Fn0WJiLc6QV3YzMrByW-nVTHfSnEA4Xmu0u5OwGFCNYNAsvZrimVOUzjLk4LI-sCjxVL0Q7JMgyVXf__igfGE8LHssjrZ3XtiJY0JBBMQvsCCB-lFRp_bPenpEVdH7Z8K8",
+        "year_founded": "2023-08-07T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "availability": [
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Mon"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Tue"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Wed"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Thur"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Fri"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Sat"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Sun"
+          }
+        ],
+        "account_verification": false,
+        "post_count": 128,
+        "followers": 10,
+        "following": 7
+      }
+    },
+    {
+      "id": 2125,
+      "post_uid": "df7dd7b3-6890-42f1-94ea-6b41cf98900f",
+      "post_link": "https://2geda.page.link/jxZSiPeWCwqaraAX8",
+      "user_uid": "d5cdf707-1cd2-48ea-9f98-3e140637ab76",
+      "account_id": "3ee8d829-4fc0-4b76-b0f6-94aa7428975c",
+      "is_visible": true,
+      "post_text": "",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5655053,
+          7.4776743
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 4,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T17:19:50.857Z",
+      "date_created": "2023-08-28T17:19:50.857Z",
+      "attachment": [
+        {
+          "key": "users_asset/49IMG20230625121026.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/49IMG20230625121026.jpg",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 234,
+        "personal_uid": "3ee8d829-4fc0-4b76-b0f6-94aa7428975c",
+        "user_uid": "d5cdf707-1cd2-48ea-9f98-3e140637ab76",
+        "first_name": "Bukola",
+        "last_name": "Olafare",
+        "name_lowercase": "bukola olafare",
+        "username": "Bako",
+        "username_lowercase": "bako",
+        "device_id": "dourAuvwRf-KTMUH_aUgtA:APA91bFPdgd1VaKKZiTlNd2WjOMbEY4y2Kh5D-HITchWsruNXn011msiZ5DKMqtpXHYZXOlNOT4C_LS5FEQlSeaOQwq1dl9m5gkfKfwx_34xaBECB3A48l_7tuKJfV88yvYHsH1YETSN",
+        "account_link": "https://2geda.page.link/YJEncmR9gUwm9BdT9",
+        "state": "ile ife",
+        "occupation": "Rentals services",
+        "image_path": {
+          "key": "users_asset/45IMG20230827141958.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/45IMG20230827141958.jpg",
+          "type": "image"
+        },
+        "gender": "male",
+        "date_of_birth": null,
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 1,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2124,
+      "post_uid": "893e7e62-e960-4dee-8b07-504ecb8e766c",
+      "post_link": "https://2geda.page.link/7EWwCX6kWttJgLqj8",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "“Can we continue to service external debts with 90% of our revenue? It is a path to destruction. It is not sustainable. We must make the very difficult changes that are necessary for our country to get up from slumber.”\n\nPresident Bola Tinubu has ruled out sustaining the economic policy of the immediate past President Muhammadu Buhari.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 6,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:07:47.996Z",
+      "date_created": "2023-08-28T13:07:47.996Z",
+      "attachment": [
+        {
+          "key": "users_asset/47Screenshot_20230828-140721.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/47Screenshot_20230828-140721.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2123,
+      "post_uid": "12c5e9ba-6ea4-4053-8df9-04f57fd16e71",
+      "post_link": "https://2geda.page.link/Yt4k6VCR5ZEg1EjF9",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "\"Me sef I be Jagun Jagun of Afro-fusion.\"\n\nVideo of Burna Boy hailing Nollywood movie Jagun Jagun by Femi Adebayo goes viral. He was seen hanging out with Asake in the clip. \n\nSomeone reacted to the video: \"Dem no go see this one talk o, Burna promoting Jagun Jagun.\"",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 5,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:06:29.767Z",
+      "date_created": "2023-08-28T13:06:29.767Z",
+      "attachment": [
+        {
+          "key": "users_asset/29Screenshot_20230828-140556.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/29Screenshot_20230828-140556.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2122,
+      "post_uid": "e6f1c097-be97-43f7-9e2a-ea75fdae03d3",
+      "post_link": "https://2geda.page.link/VcmLp9RyF2vrnMTYA",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "Following the news that the Lagdo Dam in Cameroon will soon release water, would-be affected states have urged residents of flood-prone areas to relocate to higher lands.\n\nThe National Emergency Management Agency (NEMA) had earlier issued an alert over a looming flood on the banks of River Benue.\n",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:05:27.132Z",
+      "date_created": "2023-08-28T13:05:27.132Z",
+      "attachment": [
+        {
+          "key": "users_asset/25Screenshot_20230828-140505.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/25Screenshot_20230828-140505.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2121,
+      "post_uid": "4978793b-51c5-4056-866a-5080ac112b3c",
+      "post_link": "https://2geda.page.link/LQkToFWjBmLVpiAU9",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "The presidency says any minister who does not meet expectations will be sacked.\n\nPresidential spokesman Ajuri Ngelale on Monday, August 28, said President Bola Tinubu will not tolerate failure from his recently inaugurated ministers.\n\n“He is not somebody that is afraid to levy quick sanctions to ensure that they get the results that he wants,” Ngelale said.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:04:53.283Z",
+      "date_created": "2023-08-28T13:04:53.283Z",
+      "attachment": [
+        {
+          "key": "users_asset/52Screenshot_20230828-140432.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/52Screenshot_20230828-140432.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2120,
+      "post_uid": "f26efb46-d390-4abc-b65b-c7f9d7c3f8cd",
+      "post_link": "https://2geda.page.link/rYHMUT6BUK1LZ1J76",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "Kids who were taken on an ice cream date by their aunty decided to start asking questions.\n\nThey asked why she was living alone without a man or at least a dog in her life.\n\n\"Being single is now a crime,\" someone reacted to the video.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:04:05.358Z",
+      "date_created": "2023-08-28T13:04:05.358Z",
+      "attachment": [
+        {
+          "key": "users_asset/3Screenshot_20230828-140343.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/3Screenshot_20230828-140343.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2119,
+      "post_uid": "0bfa79db-8a54-4c2a-a284-39a02b33d675",
+      "post_link": "https://2geda.page.link/sqbkgJFQHxq5cew77",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "Nigerian socialite Pretty Mike sparks emotions after leaving a comment on the best and worst BBL by a Nigerian celebrity.\n\nThe Night life boss revealed on a podcast that the best is that of former reality star, Kokobykhloe and the worst is that of relationship expert, Blessing Ceo.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:03:21.644Z",
+      "date_created": "2023-08-28T13:03:21.644Z",
+      "attachment": [
+        {
+          "key": "users_asset/20Screenshot_20230828-140247.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/20Screenshot_20230828-140247.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2118,
+      "post_uid": "3e652e36-2690-41ea-871f-9c32842f7600",
+      "post_link": "https://2geda.page.link/Au6wew7GubkcEikB8",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "\"He who finds a wife finds a good thing!\"🥰\n\nAn adorable video of recently evicted BBNaija's Frodd's wife speaking to him as she beamed with excitement has left many gushing.\n\n\"A win is a win. He left the show to go home to the real price,\" a fan said.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 3,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:02:25.061Z",
+      "date_created": "2023-08-28T13:02:25.061Z",
+      "attachment": [
+        {
+          "key": "users_asset/24Screenshot_20230828-140204.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/24Screenshot_20230828-140204.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2117,
+      "post_uid": "47e92f2b-02f9-4125-9468-9321bbe8e439",
+      "post_link": "https://2geda.page.link/Ap3GB7LDwepJXzcx8",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "Imo gospel singer, Amaka Gift, who was called out by her estranged lover for dumping him, has finally shed light on the matter. \n\nThe singer accused Favour of being a woman beater and countered his marriage claims. \n\nShe said she was done with the matter. Amaka shared her side of the story briefly with Legit.ng. ",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:01:31.413Z",
+      "date_created": "2023-08-28T13:01:31.413Z",
+      "attachment": [
+        {
+          "key": "users_asset/30Screenshot_20230828-140103.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/30Screenshot_20230828-140103.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2116,
+      "post_uid": "5fea3657-982b-484b-82b9-8524d554e5b1",
+      "post_link": "https://2geda.page.link/B5W9tABsqFMwnMpG9",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "Another wahala!\n\nJust like Godwin Emefiele, the new acting CBN governor is set to face a legal battle to clear his name.\n\nA group has decided to sue him in court, and the case has been admitted.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T13:00:37.667Z",
+      "date_created": "2023-08-28T13:00:37.667Z",
+      "attachment": [
+        {
+          "key": "users_asset/37Screenshot_20230828-140020.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/37Screenshot_20230828-140020.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2115,
+      "post_uid": "208dff4e-d5f2-424e-839e-d5153f9cd868",
+      "post_link": "https://2geda.page.link/XoiKTHWDKbXvUZaWA",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "The coup leader in Niger Republic has taken another hard measure against France by cutting off water and electricity supply to the Embassy and consulates in the country.\n\nThis development is coming days after the French Ambassador, Sylvain Itte was ordered to leave Niger Republic within 48 hours.\n",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:59:56.266Z",
+      "date_created": "2023-08-28T12:59:56.266Z",
+      "attachment": [
+        {
+          "key": "users_asset/55Screenshot_20230828-135918.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/55Screenshot_20230828-135918.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2114,
+      "post_uid": "6feb8737-0529-45c6-971d-e92c0f61a770",
+      "post_link": "https://2geda.page.link/FoE71b6Hknvsye7UA",
+      "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+      "account_id": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+      "is_visible": true,
+      "post_text": "\"Omoluabi.\"\n\nA viral clip of Nigerian singer Davido greeting his uncle's friends and Ooni of Ife's wife by prostrating trends.  \n\nOne netizen reacted to the trending clip: \"See simplicity  Yoruba Culture, heritage and respect.\"",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:58:51.185Z",
+      "date_created": "2023-08-28T12:58:51.185Z",
+      "attachment": [
+        {
+          "key": "users_asset/49Screenshot_20230828-135806.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/49Screenshot_20230828-135806.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 157,
+        "personal_uid": "ca97ee45-4d4b-42f6-894b-f22ad54b0350",
+        "user_uid": "536c8997-83de-4441-8eaf-79dc682dcac8",
+        "first_name": "Current",
+        "last_name": "Television",
+        "name_lowercase": "current television",
+        "username": "currenttv",
+        "username_lowercase": "currenttv",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/b3btfNyYZzgkviRUA",
+        "state": "new york  🇺🇸",
+        "occupation": "press",
+        "image_path": {
+          "key": "users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/54Screenshot_20230810_113849_Google.jpg",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 220,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2113,
+      "post_uid": "28912510-1cc8-45f1-9cfe-3dc38b3b0c84",
+      "post_link": "https://2geda.page.link/AY9pEhm6N4bZDqNG6",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "\"Vee dey craze. She was actually having fun watching TBaj disgrace herself.\"\n\nIt's been a chaotic online moment following Tolani Bj's eviction, as BBNaija Vee, Tacha, and Eric shade the contentious disc jockey.\n\n\"I feel Neo and TBaj have a situation outside that house. It isn't possible that Tolani can just be acting like a puppet queen,\" another fan wrote.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:56:50.915Z",
+      "date_created": "2023-08-28T12:56:50.915Z",
+      "attachment": [
+        {
+          "key": "users_asset/49Screenshot_20230828-135621.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/49Screenshot_20230828-135621.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2112,
+      "post_uid": "518e1d5b-c98b-4f4b-9c4e-369adf5b1f1c",
+      "post_link": "https://2geda.page.link/1WMhhCi64G3Mn2uGA",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "From riding bicycle to owning a car, a Nigerian man has been blessed after meeting Pastor Chibuzor of OPM!\n\nApostle Chibuzor Chinere, has rewarded a pastor who rode a bicycle from Benue state to see him in Rivers with a car and N100,000.\n\nHe also offered one of the man's children an automatic overseas university scholarship.\n",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:54:52.264Z",
+      "date_created": "2023-08-28T12:54:52.264Z",
+      "attachment": [
+        {
+          "key": "users_asset/51Screenshot_20230828-135356.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/51Screenshot_20230828-135356.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2111,
+      "post_uid": "c608c1e9-099e-44ce-b28d-1b4b79dc5ac3",
+      "post_link": "https://2geda.page.link/Snv3VFuxjQMemhCT9",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "It's lonely at the top, ghen ghen ghen ghen ghen ghen!🤯\n\nIyabo Ojo, who is currently in Canada, has shared a sweet video of her showing different moves after one of her goddaughters blessed her with $1000 (N774K), which caused a buzz online.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:53:16.064Z",
+      "date_created": "2023-08-28T12:53:16.064Z",
+      "attachment": [
+        {
+          "key": "users_asset/15Screenshot_20230828-135252.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/15Screenshot_20230828-135252.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2110,
+      "post_uid": "bcb9b684-5923-4b4d-a879-1de918e4180a",
+      "post_link": "https://2geda.page.link/LdSZVuDWeeK6i6Rz6",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "Quoted companies in trouble!\n\nNGX asked 26 companies to pay N125 million fine for not submitting their financial report on time\n\nThe companies include banking and non-banking service providers such as Unity Bank, FBN Holdings, Access Holdings, John Holt, PZ Cussons and others.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 2,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:52:00.628Z",
+      "date_created": "2023-08-28T12:52:00.628Z",
+      "attachment": [
+        {
+          "key": "users_asset/59Screenshot_20230828-135147.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/59Screenshot_20230828-135147.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2109,
+      "post_uid": "0963ceb2-d697-4fc2-81d6-740876625d06",
+      "post_link": "https://2geda.page.link/yh44jMw8FGvvT4tY7",
+      "user_uid": "f4bd20ed-1e28-417b-ba25-a69f32e53694",
+      "account_id": "df5d1f7f-fba9-4c47-a7d9-1c2cfc40d093",
+      "is_visible": true,
+      "post_text": "money on my mind ",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          4.5601079,
+          7.4826648
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 0,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:51:33.470Z",
+      "date_created": "2023-08-28T12:51:33.470Z",
+      "attachment": [],
+      "person": {
+        "id": 221,
+        "personal_uid": "df5d1f7f-fba9-4c47-a7d9-1c2cfc40d093",
+        "user_uid": "f4bd20ed-1e28-417b-ba25-a69f32e53694",
+        "first_name": "Babalola",
+        "last_name": "Kehinde",
+        "name_lowercase": "babalola kehinde",
+        "username": "Barbarlorlar",
+        "username_lowercase": "barbarlorlar",
+        "device_id": "czrFTdV5TmGYpfTLE_6T5A:APA91bEB8Q6wBexsxSILZzbDRhLISUlji2b00G6uZvdQuVIU_UPkyE8w1Xux6gyhiFyxDMC5L4w_bo2Zb1P8WCAVs3diZvTkchu4TzeBSHGczlGGEWLEERRdGZkjckmtu_zrgpY3WY-Z",
+        "account_link": "https://2geda.page.link/oZ64JbC17cbFV1fY8",
+        "state": "Ile_ife obalaaye",
+        "occupation": "P.A",
+        "image_path": {
+          "key": "users_asset/29IMG_20230821_133814_164.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/29IMG_20230821_133814_164.jpg",
+          "type": "image"
+        },
+        "gender": "male",
+        "date_of_birth": null,
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 1,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2108,
+      "post_uid": "66be8a22-d084-4039-9475-8e9812bf6089",
+      "post_link": "https://2geda.page.link/4dx3jA8cK8NTRPPp9",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "Former Kaduna lawmaker, Shehu Sani has thrown shade at the minister of works, David Umahi.\n\nSani said, “Brother Umahi is holding the Senate seat with his right hand and the ministerial seat with the left hand; just in case of the change of weather.”\n\nReacting, someone wrote, “Man no wan loose guard.”",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:51:16.474Z",
+      "date_created": "2023-08-28T12:51:16.474Z",
+      "attachment": [
+        {
+          "key": "users_asset/15Screenshot_20230828-135044.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/15Screenshot_20230828-135044.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2107,
+      "post_uid": "2ce9f3a6-eded-4cc4-8850-a406b1c40d43",
+      "post_link": "https://2geda.page.link/2PfvmkQjMTEwKxqs7",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "A Nigerian man told his wife to collect a package from a friend that was coming to the UK.\n\nUnknown to the wife, it was her husband coming with a surprise.\n\nHer reaction when she saw him was captured in the video.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:49:39.589Z",
+      "date_created": "2023-08-28T12:49:39.589Z",
+      "attachment": [
+        {
+          "key": "users_asset/38Screenshot_20230828-134910.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/38Screenshot_20230828-134910.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2106,
+      "post_uid": "bbe46d99-782e-4704-9552-6eb00660cfd6",
+      "post_link": "https://2geda.page.link/yzvCxcooLrqFU9aF6",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "A throwback video from Steve Harvey's game show Family Feud, where his wife Marjorie suggested she would cheat on him with a \"pool boy,\" has gone viral and left many talking.\n\n\"I was always scared for Uncle Steve. She looked too good for his age,\" a netizen said.",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:48:42.535Z",
+      "date_created": "2023-08-28T12:48:42.535Z",
+      "attachment": [
+        {
+          "key": "users_asset/41Screenshot_20230828-134812.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/41Screenshot_20230828-134812.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2105,
+      "post_uid": "7c8990f6-44e0-40dc-8a80-7f7de712b788",
+      "post_link": "https://2geda.page.link/hhwhXWxh8bAZCfUY7",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "\"You people should report him to Odumeje. Or Pastor Eze,\" a man suggested. \n\nA Nigerian man has taken his sister and her husband's names and pictures to a shrine as he summoned them before it. \n\nIn a video, the herbalist of the shrine showed the couple's details as he warned them of the consequences should they fail to heed his directive. ",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:47:28.705Z",
+      "date_created": "2023-08-28T12:47:28.705Z",
+      "attachment": [
+        {
+          "key": "users_asset/27Screenshot_20230828-134659.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/27Screenshot_20230828-134659.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    },
+    {
+      "id": 2104,
+      "post_uid": "7de6f759-8254-4eee-a321-314bc18cae0f",
+      "post_link": "https://2geda.page.link/xL5PzHP2955dUwkj6",
+      "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+      "account_id": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+      "is_visible": true,
+      "post_text": "A Nigerian man living in Canada washed his clothes but has to pay to dry it.\n\nThe video he posted went viral as people asked why he did not simply go outside and spray his clothes under the sun.\n\n@Ruthie reacted to the video: \"Wait I no fit wash my clothes myself with bucket and water and spray outside?\"",
+      "tags": null,
+      "hash_tags": null,
+      "state": "",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "comment_count": 0,
+      "likes_count": 1,
+      "retweet_count": 0,
+      "date_time_with_timezone": "2023-08-28T12:46:39.977Z",
+      "date_created": "2023-08-28T12:46:39.977Z",
+      "attachment": [
+        {
+          "key": "users_asset/39Screenshot_20230828-134615.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/39Screenshot_20230828-134615.png",
+          "type": "image"
+        }
+      ],
+      "person": {
+        "id": 156,
+        "personal_uid": "66398c89-3dd0-4a48-bb33-81e6f44a5ffc",
+        "user_uid": "ea5d08bf-0aea-493e-bde1-29c6831d7c0e",
+        "first_name": "Star",
+        "last_name": "Line 🌟",
+        "name_lowercase": "star line 🌟",
+        "username": "starline",
+        "username_lowercase": "starline",
+        "device_id": "e3K9M-uBQj-hBlGEcxI9sb:APA91bE80ORp8kpTZDfkd41HHIqoVSMviGT5gLHRW2s9jkKHnaPNDioTrrVaw787u_v_NHgppk68XLQ1X3XFqKe7e9BuLfhLr7530SoyDwiR9Onru4NuHcXQDH-4aCr2DlFZoGM_sYuz",
+        "account_link": "https://2geda.page.link/fVunekkbRKbVL2PaA",
+        "state": "abuja. nigeria",
+        "occupation": "parrot",
+        "image_path": {
+          "key": "users_asset/35star-tv-logo-png-transparent.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/35star-tv-logo-png-transparent.png",
+          "type": "image"
+        },
+        "gender": "rather_not_say",
+        "date_of_birth": "2023-08-10T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "account_verification": false,
+        "post_count": 218,
+        "followers": 0,
+        "following": 0
+      },
+      "business": null
+    }
+  ],
+  "products": [
+    {
+      "id": 12,
+      "product_uid": "89583ce3-1240-4240-b12d-8e55fb80bd0a",
+      "product_name": "Zara ",
+      "product_name_id": "zara-174243",
+      "product_link": "https://2geda.page.link/QPXwQAPUT2PzjHHs6",
+      "user_uid": "985cc49d-f9ee-437b-902a-8208a21290fd",
+      "business_uid": "344048ac-65a5-4ad3-bcee-17c43f40f17d",
+      "is_sold": false,
+      "desc": "Sneakers ",
+      "price": 30000,
+      "price_in_text": "30,000",
+      "tagLocation": "Oyo",
+      "is_promoted": false,
+      "promotion_end_date": "1990-02-18T00:00:00.000Z",
+      "rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "total_number_of_rate": 0,
+      "date_created": "2023-08-10T19:37:19.405Z",
+      "date_updated": "2023-08-10T19:37:19.405Z",
+      "attachment": [
+        {
+          "key": "users_asset/16image_picker_03465C87-1541-4E07-B4C7-D9103EEF7A08-294-00000023896D3169.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/16image_picker_03465C87-1541-4E07-B4C7-D9103EEF7A08-294-00000023896D3169.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/17image_picker_CB1052A9-D3A6-49F8-97FC-922DA219CF75-294-000000238DBAC22E.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/17image_picker_CB1052A9-D3A6-49F8-97FC-922DA219CF75-294-000000238DBAC22E.jpg",
+          "type": "image"
+        }
+      ],
+      "time_in_sec": null,
+      "hate_this": null,
+      "business": {
+        "id": 266,
+        "business_uid": "344048ac-65a5-4ad3-bcee-17c43f40f17d",
+        "user_uid": "985cc49d-f9ee-437b-902a-8208a21290fd",
+        "username": "Oluwayomi",
+        "username_lowercase": "oluwayomi",
+        "password": "$2a$10$WMNg0xPwiIC7nhyPR0t2zePYUlJ1aBKMobAC1KHVYm9g7TRI790ry",
+        "business_name": "Ace Graffix",
+        "name_lowercase": "ace graffix",
+        "category": "UIUX design",
+        "subcategory": "UIUX design",
+        "state": "ibadan",
+        "account_link": "https://2geda.page.link/WJfUV51pXjvRgswB6",
+        "image_path": {
+          "key": "business_icon.png",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/business_asset/business_icon.png",
+          "type": "image"
+        },
+        "isAdmin": true,
+        "device_id": "fI_jdsUp9kohop55I_BZTn:APA91bE8TA7RNz2Z4LKMr75ZRuaLE8QL8PS1V4CHzVMM6ZlLghWlh-uksheRodS9_g1UAeimv2Elj5-1xUKKRlyfz5hYHJOEhqVt4V6XM82B7ForSdsSYZ1N08cxrAbX0R2bmTue6657",
+        "year_founded": "2021-11-01T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "availability": [
+          {
+            "to": "2023-08-09 23:59:00.000",
+            "from": "2023-08-09 00:00:00.000",
+            "dayOfTheWeek": "Mon"
+          },
+          {
+            "to": "2023-08-09 23:59:00.000",
+            "from": "2023-08-09 00:00:00.000",
+            "dayOfTheWeek": "Tue"
+          },
+          {
+            "to": "2023-08-09 23:59:00.000",
+            "from": "2023-08-09 00:00:00.000",
+            "dayOfTheWeek": "Wed"
+          },
+          {
+            "to": "2023-08-09 23:59:00.000",
+            "from": "2023-08-09 00:00:00.000",
+            "dayOfTheWeek": "Thur"
+          },
+          {
+            "to": "2023-08-09 23:59:00.000",
+            "from": "2023-08-09 00:00:00.000",
+            "dayOfTheWeek": "Fri"
+          },
+          {
+            "to": "2023-08-09 23:59:00.000",
+            "from": "2023-08-09 00:00:00.000",
+            "dayOfTheWeek": "Sat"
+          },
+          {
+            "to": "2023-08-09 23:59:00.000",
+            "from": "2023-08-09 00:00:00.000",
+            "dayOfTheWeek": "Sun"
+          }
+        ],
+        "account_verification": false,
+        "post_count": 1,
+        "followers": 7,
+        "following": 1
+      },
+      "category": {
+        "id": 6,
+        "category_number": 6,
+        "category_uid": "71f49842-ad57-4655-8212-4c692b1f7f18",
+        "category_name": "Cloth",
+        "is_enable": true,
+        "date_created": "2023-07-09T18:33:09.661Z"
+      }
+    },
+    {
+      "id": 3,
+      "product_uid": "968dfd27-3344-457c-bf9e-020fedaf9f5b",
+      "product_name": "Crocs Unisex-Adult Echo Clog",
+      "product_name_id": "crocs-unisex-adult-echo-clog363280",
+      "product_link": "https://2geda.page.link/vdWEEHD5GepJxNgr9",
+      "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+      "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+      "is_sold": false,
+      "desc": "100% Croslite\nImported\nEthylene Vinyl Acetate sole\nFind Your Size: Echo Clogs offer a roomy fit. We recommend sizing down (e.g. if you are an 8, size down to a 7).\nGet a Height Boost: Echo Clogs give you a 1.5 Inch height boost. Stand tall with this athletic foam style shoe. Elevate your game without compromising your look.\nIconic Comfort: These Crocs include Croslite construction, a LiteRide drop-in footbed and a heel pad on the back strap for extra comfort.\nEasy to Clean: These Crocs for men and women are easy to clean, just use soap/water and allow for a quick dry.\nShop with Confidence: Crocs products are backed by our 90-day manufacturer's warranty for high quality and authenticity. Terms and conditions apply.",
+      "price": 52500,
+      "price_in_text": "52,500",
+      "tagLocation": "FCT",
+      "is_promoted": false,
+      "promotion_end_date": "1990-02-18T00:00:00.000Z",
+      "rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      },
+      "total_number_of_rate": 1,
+      "date_created": "2023-07-16T10:04:24.241Z",
+      "date_updated": "2023-07-29T13:27:32.528Z",
+      "attachment": [
+        {
+          "key": "users_asset/2081TL5zYkc+L._AC_UX695_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2081TL5zYkc%2BL._AC_UX695_.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/21714o+hrUVbL._AC_UX695_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/21714o%2BhrUVbL._AC_UX695_.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/2181s1Eq1mwlL._AC_UY695_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2181s1Eq1mwlL._AC_UY695_.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/2271fghJKs+VL._AC_UX695_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2271fghJKs%2BVL._AC_UX695_.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/2281TlcU-kHCL._AC_UY695_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/2281TlcU-kHCL._AC_UY695_.jpg",
+          "type": "image"
+        }
+      ],
+      "time_in_sec": null,
+      "hate_this": null,
+      "business": {
+        "id": 4,
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "username": "crocs",
+        "username_lowercase": "crocs",
+        "password": "$2a$10$2UYKCZ5Lvy5vbQ8Ud6Jr8.jpM1ZK07QBwxdAR36D02seQ5W4hzW6S",
+        "business_name": "Crocs",
+        "name_lowercase": "crocs",
+        "category": "Footwear ",
+        "subcategory": "Designers",
+        "state": "afghanistan 🇦🇫 ",
+        "account_link": "https://2geda.page.link/Tbq2yGwnQLF6vWrS6",
+        "image_path": {
+          "key": "users_asset/4171W+Zn1NgsL._AC_UY1000_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/4171W%2BZn1NgsL._AC_UY1000_.jpg",
+          "type": "image"
+        },
+        "isAdmin": true,
+        "device_id": "eDu6oUXFSnS4ouhciCC4X6:APA91bFlx6z1STicPv_cmfVnoccS2FDv_7RDw3pzNwwKkh92fFmWo5nQy1a33VEtaYWOVKKpjbslDskSgT29Tpcx9Vrv_HwZHGFgxAgiL-hBS1UEWB_fzzqZduGHRZ6CovzGboXsJV4d",
+        "year_founded": "2023-07-16T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "availability": [
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Mon"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Tue"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Wed"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Thur"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Fri"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Sat"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Sun"
+          }
+        ],
+        "account_verification": false,
+        "post_count": 4,
+        "followers": 33,
+        "following": 50
+      },
+      "category": {
+        "id": 4,
+        "category_number": 4,
+        "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+        "category_name": "Homes",
+        "is_enable": true,
+        "date_created": "2023-07-09T17:32:18.162Z"
+      }
+    },
+    {
+      "id": 13,
+      "product_uid": "ecbce718-af71-42b1-851d-ece6b97e6693",
+      "product_name": "Honda",
+      "product_name_id": "honda969553",
+      "product_link": "https://2geda.page.link/5dUvxczxAW2a6oFZ9",
+      "user_uid": "bbd6f5ef-744e-4235-9910-8cce076f336d",
+      "business_uid": "6103ff35-5900-420a-801f-be5d1222d950",
+      "is_sold": false,
+      "desc": "2014 Honda Accord EX L Mileage:50,888",
+      "price": 4000000,
+      "price_in_text": "4,000,000",
+      "tagLocation": "Rivers",
+      "is_promoted": false,
+      "promotion_end_date": "1990-02-18T00:00:00.000Z",
+      "rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "total_number_of_rate": 0,
+      "date_created": "2023-08-27T15:13:18.714Z",
+      "date_updated": "2023-08-27T15:13:18.714Z",
+      "attachment": [
+        {
+          "key": "users_asset/131000250649.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/131000250649.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/141000250648.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/141000250648.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/151000250647.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/151000250647.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/161000250645.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/161000250645.jpg",
+          "type": "image"
+        },
+        {
+          "key": "users_asset/171000250644.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/171000250644.jpg",
+          "type": "image"
+        }
+      ],
+      "time_in_sec": null,
+      "hate_this": null,
+      "business": {
+        "id": 265,
+        "business_uid": "6103ff35-5900-420a-801f-be5d1222d950",
+        "user_uid": "bbd6f5ef-744e-4235-9910-8cce076f336d",
+        "username": "2GEDA",
+        "username_lowercase": "2geda",
+        "password": "$2a$10$R8BhL20K.xMuE2r81lmUbuBRb30GXiCoMhM6aKPLaD4fIlXNMPrJK",
+        "business_name": "2GEDA",
+        "name_lowercase": "2geda",
+        "category": "Social Networking",
+        "subcategory": "Social Media Website",
+        "state": "nigeria 🇳🇬",
+        "account_link": "https://2geda.page.link/HNsYa7kXe15tozaNA",
+        "image_path": {
+          "key": "users_asset/18Social media DP1.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/18Social%20media%20DP1.jpg",
+          "type": "image"
+        },
+        "isAdmin": true,
+        "device_id": "c87FpcemtU4Cr5q0W_AD7N:APA91bHAIysHCIA9rdoQy5e-o3jCm_joPBn9E14cmwolIgRkC4oggHHAp5EG32_8KxPA_rViKFD2b-iSGjvam1xiD4wTL4KP161yn-6ZQlN1iWm8BqGEtihN7hMh9cp7zBJdptwUz_k5",
+        "year_founded": "2011-04-08T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "availability": [
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Mon"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Tue"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Wed"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Thur"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Fri"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Sat"
+          },
+          {
+            "to": "2023-08-07 23:59:00.000",
+            "from": "2023-08-07 00:00:00.000",
+            "dayOfTheWeek": "Sun"
+          }
+        ],
+        "account_verification": true,
+        "post_count": 31,
+        "followers": 18,
+        "following": 130
+      },
+      "category": {
+        "id": 3,
+        "category_number": 3,
+        "category_uid": "1b9aded6-c712-4869-991f-7d70d885f62b",
+        "category_name": "Automobile",
+        "is_enable": true,
+        "date_created": "2023-07-09T17:31:29.902Z"
+      }
+    },
+    {
+      "id": 4,
+      "product_uid": "2a89b9d9-c7e9-4d1d-b272-706bdb83b44e",
+      "product_name": "Crocs 2.0",
+      "product_name_id": "crocs-2.0308663",
+      "product_link": "https://2geda.page.link/XqTSrwgfexL3fNAfA",
+      "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+      "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+      "is_sold": false,
+      "desc": "Need a little more comfort in your life?\nLook no further than Crocs! These versatile shoes are a\nmust-have for anyone who wants to prioritize comfort\nwithout sacrificing style. Trust us, your feet will thank you",
+      "price": 20000,
+      "price_in_text": "20,000",
+      "tagLocation": "Cross River",
+      "is_promoted": false,
+      "promotion_end_date": "1990-02-18T00:00:00.000Z",
+      "rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "total_number_of_rate": 0,
+      "date_created": "2023-07-16T11:28:57.888Z",
+      "date_updated": "2023-07-16T11:28:57.888Z",
+      "attachment": [
+        {
+          "key": "users_asset/56Screenshot_20230716_122636_Instagram.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/56Screenshot_20230716_122636_Instagram.jpg",
+          "type": "image"
+        }
+      ],
+      "time_in_sec": null,
+      "hate_this": null,
+      "business": {
+        "id": 4,
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "username": "crocs",
+        "username_lowercase": "crocs",
+        "password": "$2a$10$2UYKCZ5Lvy5vbQ8Ud6Jr8.jpM1ZK07QBwxdAR36D02seQ5W4hzW6S",
+        "business_name": "Crocs",
+        "name_lowercase": "crocs",
+        "category": "Footwear ",
+        "subcategory": "Designers",
+        "state": "afghanistan 🇦🇫 ",
+        "account_link": "https://2geda.page.link/Tbq2yGwnQLF6vWrS6",
+        "image_path": {
+          "key": "users_asset/4171W+Zn1NgsL._AC_UY1000_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/4171W%2BZn1NgsL._AC_UY1000_.jpg",
+          "type": "image"
+        },
+        "isAdmin": true,
+        "device_id": "eDu6oUXFSnS4ouhciCC4X6:APA91bFlx6z1STicPv_cmfVnoccS2FDv_7RDw3pzNwwKkh92fFmWo5nQy1a33VEtaYWOVKKpjbslDskSgT29Tpcx9Vrv_HwZHGFgxAgiL-hBS1UEWB_fzzqZduGHRZ6CovzGboXsJV4d",
+        "year_founded": "2023-07-16T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "availability": [
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Mon"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Tue"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Wed"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Thur"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Fri"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Sat"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Sun"
+          }
+        ],
+        "account_verification": false,
+        "post_count": 4,
+        "followers": 33,
+        "following": 50
+      },
+      "category": {
+        "id": 4,
+        "category_number": 4,
+        "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+        "category_name": "Homes",
+        "is_enable": true,
+        "date_created": "2023-07-09T17:32:18.162Z"
+      }
+    },
+    {
+      "id": 5,
+      "product_uid": "3b6cdf8b-bdcb-4581-9d11-e239f359d493",
+      "product_name": "Crocs 7.0",
+      "product_name_id": "crocs-7.0377684",
+      "product_link": "https://2geda.page.link/PWRTWEziy1uMJVRF8",
+      "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+      "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+      "is_sold": false,
+      "desc": "Step into happiness with Crocs!\nThese comfy and colorful shoes are sure to brighten up\nyour day and put a smile on your face. Don't just take our\nword for it, slip into a pair and feel the joy for yourself",
+      "price": 15000,
+      "price_in_text": "15,000",
+      "tagLocation": "GombeImo",
+      "is_promoted": false,
+      "promotion_end_date": "1990-02-18T00:00:00.000Z",
+      "rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "total_number_of_rate": 0,
+      "date_created": "2023-07-16T11:33:07.446Z",
+      "date_updated": "2023-07-16T11:33:07.446Z",
+      "attachment": [
+        {
+          "key": "users_asset/6Screenshot_20230716_122948_Instagram.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/6Screenshot_20230716_122948_Instagram.jpg",
+          "type": "image"
+        }
+      ],
+      "time_in_sec": null,
+      "hate_this": null,
+      "business": {
+        "id": 4,
+        "business_uid": "5e1bb1bf-63fd-4f33-b29a-1cc623d4ae7c",
+        "user_uid": "84b0ef67-4d0d-4d76-89e3-6f2504ab4fca",
+        "username": "crocs",
+        "username_lowercase": "crocs",
+        "password": "$2a$10$2UYKCZ5Lvy5vbQ8Ud6Jr8.jpM1ZK07QBwxdAR36D02seQ5W4hzW6S",
+        "business_name": "Crocs",
+        "name_lowercase": "crocs",
+        "category": "Footwear ",
+        "subcategory": "Designers",
+        "state": "afghanistan 🇦🇫 ",
+        "account_link": "https://2geda.page.link/Tbq2yGwnQLF6vWrS6",
+        "image_path": {
+          "key": "users_asset/4171W+Zn1NgsL._AC_UY1000_.jpg",
+          "path": "https://2geda-bucket.s3.eu-north-1.amazonaws.com/users_asset/4171W%2BZn1NgsL._AC_UY1000_.jpg",
+          "type": "image"
+        },
+        "isAdmin": true,
+        "device_id": "eDu6oUXFSnS4ouhciCC4X6:APA91bFlx6z1STicPv_cmfVnoccS2FDv_7RDw3pzNwwKkh92fFmWo5nQy1a33VEtaYWOVKKpjbslDskSgT29Tpcx9Vrv_HwZHGFgxAgiL-hBS1UEWB_fzzqZduGHRZ6CovzGboXsJV4d",
+        "year_founded": "2023-07-16T00:00:00.000Z",
+        "visibility": "public",
+        "location": null,
+        "availability": [
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Mon"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Tue"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Wed"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Thur"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Fri"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Sat"
+          },
+          {
+            "to": "2023-07-16 23:59:00.000",
+            "from": "2023-07-16 00:00:00.000",
+            "dayOfTheWeek": "Sun"
+          }
+        ],
+        "account_verification": false,
+        "post_count": 4,
+        "followers": 33,
+        "following": 50
+      },
+      "category": {
+        "id": 4,
+        "category_number": 4,
+        "category_uid": "65b02b0c-d700-48ad-b7ea-952edcd11c1b",
+        "category_name": "Homes",
+        "is_enable": true,
+        "date_created": "2023-07-09T17:32:18.162Z"
+      }
+    }
+  ],
+  "totalPages": 56,
+  "currentPage": 1
+}
