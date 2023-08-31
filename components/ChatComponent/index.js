@@ -1,5 +1,6 @@
 import ChatCard from '../ui-components/ChatCard';
 import styles from './ChatComponent.module.css';
+import { FaUsers, FaComments } from 'react-icons/fa';
 
 
 const chatData = [
@@ -53,7 +54,8 @@ function ChatComponent() {
     <div style={{margin:'30px 0', background: '#DAD7DE', borderRadius: 5,}}>
       {/* Other content */}
       <div className={styles.chatHeader}>
-                Message
+                <p>Message</p>
+                <FaComments color='#FFBD15'/>
             </div>
       {chatData.map((user) => (
         <ChatCard key={user.id} user={user} />

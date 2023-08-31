@@ -1,4 +1,6 @@
 .chatHeader {
+    display: flex;
+    justify-content: space-between;
     background-color: black;
     color: white;
     border-radius: 5px;
