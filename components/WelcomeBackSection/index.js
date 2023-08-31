@@ -11,23 +11,68 @@ const WelcomeBackSection = () => {
     const [signUpWithEmailBusiness, setSignUpWithEmailBusiness] = useState(true); // Separate state for business
     const [signUpWithPhoneNumber, setSignUpWithPhoneNumber] = useState(true); // Default to phone number signup
     const router = useRouter();
+    const [userInput, setUserInput] = useState('');
+    const [passwordInput, setPasswordInput] = useState('');
 
-    const handleButtonClick = () => {
-        // Determine the next route based on the current route
-        const currentRoute = router.asPath;
-        console.log('Current Route:', currentRoute);
-    
-        if (currentRoute.includes('/business')) {
-            console.log('Navigating to Business Dashboard');
-            router.push('/dashboard?type=business');
-        } else if (currentRoute.includes('/personal')) {
-            console.log('Navigating to Personal Dashboard');
-            router.push('/dashboard?type=personal');
-        } else {
-            console.log('Navigating to Default Route');
-            router.push('/');
+
+    // const handleButtonClick = () => {
+    //     // Determine the next route based on the current route
+    //     const currentRoute = router.asPath;
+    //     console.log('Current Route:', currentRoute);
+
+    //     if (currentRoute.includes('/business')) {
+    //         console.log('Navigating to Business Dashboard');
+    //         router.push('/dashboard?type=business');
+    //     } else if (currentRoute.includes('/personal')) {
+    //         console.log('Navigating to Personal Dashboard');
+    //         router.push('/dashboard?type=personal');
+    //     } else {
+    //         console.log('Navigating to Default Route');
+    //         router.push('/');
+    //     }
+    // };
+
+    const handleButtonClick = async () => {
+        const loginEndpoint = 'https://api.2geda.net/auth/login';
+
+        const loginData = {
+            auth: signUpWithEmail ? 'email' : 'phone',
+            authValue: userInput,
+            password: passwordInput,
+        };
+
+        try {
+            const response = await fetch(loginEndpoint, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(loginData),
+            });
+
+            if (response.ok) {
+                const responseData = await response.json();
+                if (responseData.success) {
+                    // Handle successful login, e.g., navigate to user dashboard
+                    console.log('Login successful!', responseData);
+                    // You can add logic to navigate to the appropriate dashboard
+                } else {
+                    // Handle login failure and display the error message
+                    console.log('Login failed:', responseData.message);
+                    alert(responseData.message); // Display the error message in an alert
+                }
+            } else {
+                // Handle login failure, show error message, etc.
+                console.log('Login failed.');
+                alert('Login failed. Please try again later.');
+            }
+        } catch (error) {
+            // Handle network or other errors
+            console.error('An error occurred:', error);
+            alert('An error occurred. Please try again later.');
         }
     };
+
     
     const handleUsePhoneNumberClick = () => {
         setSignUpWithEmail(false);
@@ -56,16 +101,28 @@ const WelcomeBackSection = () => {
                     {signUpWithEmail ? (
                         <div style={{ textAlign: 'left' }}>
                             <p style={{ fontSize: '0.7em', fontWeight: 'bold' }}>Sign up with E-mail</p>
-                            <Input type={'email'} placeholder={'Input email address'} />
-                            <Input type={'password'} placeholder={'Input Password'} />
+                            <Input type={'email'}
+                                placeholder={'Input email address'}
+                                value={userInput}
+                                onChange={(event) => setUserInput(event.target.value)}
+                            />
                         </div>
                     ) : (
                         <div style={{ textAlign: 'left' }}>
                             <p style={{ fontSize: '0.7em', fontWeight: 'bold' }}>Sign up with Phone Number</p>
-                            <Input type={'tel'} placeholder={'Input phone number'} />
-                            <Input type={'password'} placeholder={'Input Password'} />
+                            <Input type={'tel'}
+                                placeholder={'Input phone number'}
+                                value={userInput}
+                                onChange={(event) => setUserInput(event.target.value)}
+                            />
                         </div>
                     )}
+                    <Input
+                        type={'password'}
+                        placeholder={'Input Password'}
+                        value={passwordInput}
+                        onChange={(event) => setPasswordInput(event.target.value)}
+                    />
                     {signUpWithEmail ? (
                         <Link href='#' onClick={handleUsePhoneNumberClick} style={{ textDecoration: 'none', fontWeight: 'bolder', fontSize: '0.7em', marginBottom: '50px' }}>
                             Use Phone Number Instead
@@ -77,7 +134,7 @@ const WelcomeBackSection = () => {
                     )}
                 </div>
                 <div style={{ margin: '15px 0', }}>
-                    <Link href='' style={{ textDecoration: 'none', fontWeight: 'bolder', color: 'gray', fontSize: '0.6em', }}>Forget Password</Link>
+                    <Link href='/forget-password' style={{ textDecoration: 'none', fontWeight: 'bolder', color: 'gray', fontSize: '0.6em', }}>Forget Password</Link>
                 </div>
                 <ActionButton
                     label={signUpWithEmail ? 'Business Sign In' : 'Personal Sign In'}

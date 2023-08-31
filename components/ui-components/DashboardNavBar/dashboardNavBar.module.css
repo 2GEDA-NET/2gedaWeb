@@ -1,22 +1,67 @@
 /* components/navbar.module.css */
 .navbar {
-    display: flex;
-    position: fixed; 
-    top: 0; /* Position the navbar at the top of the viewport */
-    left: 0; /* Position the navbar at the left side of the viewport */
-    right: 0; /* Position the navbar at the right side of the viewport */
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 50px;
-    color: black;
-    background-color: #fff; /* Add a background color to the navbar */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a box shadow for a nice effect */
-    z-index: 1; /* Set a higher z-index to make sure the navbar is above other elements */
-  }
-  
-  .logo {
-    font-size: 24px;
-    font-weight: bold;
-    text-decoration: none;
-  }
-  
+  display: flex;
+  position: fixed;
+  top: 0;
+  /* Position the navbar at the top of the viewport */
+  left: 0;
+  /* Position the navbar at the left side of the viewport */
+  right: 0;
+  /* Position the navbar at the right side of the viewport */
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 50px;
+  color: black;
+  background-color: #fff;
+  /* Add a background color to the navbar */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* Add a box shadow for a nice effect */
+  z-index: 1;
+  /* Set a higher z-index to make sure the navbar is above other elements */
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* dashboardNavBar.module.css */
+
+/* ... Other styles ... */
+
+.searchForm {
+  display: flex;
+  align-items: center;
+  max-width: 400px;
+  padding: 0px 40px;
+
+  /* Adjust this value to your design */
+}
+
+.searchInputContainer {
+  position: relative;
+}
+
+.searchInput {
+  padding: 10px 40px 10px 10px;
+  /* Adjust right padding to provide space for the icon */
+  margin: 10px;
+  font-style: italic;
+  /* width: 100%; */
+  font-size: 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.searchIcon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  /* Adjust this value to position the icon within the input */
+  transform: translateY(-50%);
+  width: 20px;
+  /* Adjust this value based on your design */
+  height: 20px;
+  /* Adjust this value based on your design */
+}

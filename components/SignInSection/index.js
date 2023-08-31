@@ -10,8 +10,13 @@ const SignInSection = () => {
   const [signUpWithEmail, setSignUpWithEmail] = useState(true); // Default to email signup
   const [accountType, setAccountType] = useState('personal'); // Default account type is Personal
   const [userInput, setUserInput] = useState(''); // Store user's email/phone input
+  const [passwordInput, setPasswordInput] = useState('');
+  const [confirmPasswordInput, setConfirmPasswordInput] = useState('');
 
 
+  const getDeviceId = () => {
+    return navigator.userAgent;
+  };
   // const handleButtonClick = () => {
   //   // Add your logic here to handle the submission based on the selected accountType
   //   // For example, you can navigate to different pages based on the accountType
@@ -26,8 +31,11 @@ const SignInSection = () => {
     const registrationEndpoint = 'https://api.2geda.net/auth/register';
 
     const registrationData = {
-      [signUpWithEmail ? 'email' : 'phone']: userInput,
-      // You can add more fields here based on your registration requirements
+      auth: signUpWithEmail ? 'email' : 'phone',
+      value: userInput,
+      username: userInput, // You might need to adjust this based on your requirements
+      password: passwordInput, // Use the password input value
+      deviceId: getDeviceId(),
     };
 
     try {
@@ -40,14 +48,26 @@ const SignInSection = () => {
       });
 
       if (response.ok) {
-        // Handle successful registration, e.g., navigate to a success page
+        const responseData = await response.json();
+        // Assuming the response data has a property 'success' indicating the success status
+        if (responseData.success) {
+          // Handle successful registration, e.g., navigate to a success page
+          console.log('Registration successful!');
+          router.push('/success'); // Replace with the appropriate success page route
+        } else {
+          // Handle registration failure, show error message, etc.
+          alert('Registration failed. Please check your information and try again.');
+        }
       } else {
         // Handle registration failure, show error message, etc.
+        alert('Registration failed. Please try again later.');
       }
     } catch (error) {
       // Handle network or other errors
+      alert('An error occurred. Please try again later.');
     }
   };
+
 
   const handleUsePhoneNumberClick = () => {
     setSignUpWithEmail(false); // Switch to phone number signup
@@ -84,6 +104,18 @@ const SignInSection = () => {
             <p style={{ fontSize: '0.6em' }}>We will send an OTP to your phone</p>
           </div>
         )}
+        <Input
+          type={'password'}
+          placeholder={'Input Password'}
+          value={passwordInput}
+          onChange={(event) => setPasswordInput(event.target.value)}
+        />
+        <Input
+          type={'password'}
+          placeholder={'Confirm Password'}
+          value={confirmPasswordInput}
+          onChange={(event) => setConfirmPasswordInput(event.target.value)}
+        />
         {signUpWithEmail ? (
           <Link href='#' onClick={handleUsePhoneNumberClick} style={{ textDecoration: 'none', fontWeight: 'bolder', fontSize: '0.7em', marginBottom: '50px' }}>
             Use Phone Number Instead
