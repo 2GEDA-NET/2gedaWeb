@@ -3,7 +3,7 @@ import PeopleSearchCard from "../ui-components/PeopleSearchCard";
 import PeopleSectionCard from '../ui-components/PeopleSectionCard'
 
 
-const SearchResult = () => {
+const PeopleSearchResult = () => {
 
     const result = [
         {
@@ -62,4 +62,4 @@ const SearchResult = () => {
     );
 };
 
-export default SearchResult;
+export default PeopleSearchResult;

@@ -1,0 +1,70 @@
+.profileNavbar {
+    width: 66vw;
+    margin-top: 79px;
+    margin-left: 80px;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    background: linear-gradient(180deg, #B065ED 0%, #4F0DA3 100%);
+    padding: 10px 20px;
+    z-index: 1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.backIcon,
+.menuIcon {
+    cursor: pointer;
+    font-size: 1.5em;
+    /* color: #555; */
+}
+
+.profileTitle {
+    font-size: 1.2em;
+    font-weight: bold;
+    /* color: #555; */
+}
+
+
+
+/* Styling for the overlay */
+.overlay {
+    /* width: 300px;
+    height: 200px; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+/* Updated styles for the overlay content */
+.overlayContent {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #4F0DA3;
+    color: white;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.overlay ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.overlay li {
+    margin: 10px;
+    font-size: 18px;
+}

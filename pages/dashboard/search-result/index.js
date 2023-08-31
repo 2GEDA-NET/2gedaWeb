@@ -1,51 +1,101 @@
 import BaseLayout from "@/components/BaseLayout";
+import React, { useState } from 'react';
+import BusinessSearchResult from "@/components/BusinessSearchResult";
 import ChatComponent from "@/components/ChatComponent";
 import Inventory from "@/components/Inventory";
-import SearchResult from "@/components/PeopleSearchResult";
+import PeopleSearchResult from "@/components/PeopleSearchResult";
 import ActionButton from "@/components/ui-components/ActionButton";
+import ArrowNav from "@/components/ui-components/ArrowNav";
 import DashboardNavbar from "@/components/ui-components/DashboardNavBar";
 import styles from '@/pages/styles/global.module.css'
+import MediaSearchResult from "@/components/MediaSearchResult";
+import PlacesSearchResult from "@/components/PlacesSearchResult";
 
 const SearchResultPage = () => {
+    const [activeButton, setActiveButton] = useState("People");
+
+    const handleButtonClick = (button) => {
+        setActiveButton(button);
+    };
+
+    const renderSearchResult = () => {
+        if (activeButton === "People") {
+            return <PeopleSearchResult />;
+        } else if (activeButton === "Business") {
+            return <BusinessSearchResult />;
+        } else if (activeButton === "Media") {
+            return <MediaSearchResult />
+        } else if (activeButton === "Places") {
+            return <PlacesSearchResult />
+        }
+
+
+        // Add other cases for different search types
+
+        return null; // Default case
+    };
     return (
         <BaseLayout>
             <DashboardNavbar />
             <div className={styles.container}>
-                <div style={{paddingTop: '100px',}}>
-                    <div style={{display: 'flex', justifyContent: 'space-between', }}>
-                        <p>Search for <em>Adeoye Hammed</em></p>
-                        <ActionButton 
+                <ArrowNav navTitle={'Search Result'} />
+                <div style={{ paddingTop: '150px', background: 'white', margin: '0 40px', }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', }}>
+                        <p style={{ margin: '10px', }}>Search for <em>Adeoye Hammed</em></p>
+                        <ActionButton
                             label="People"
-                            inverse={false}
-                            style={{padding: '10px 50px', background:'#FF5722',}}
+                            inverse={true}
+                            onClick={() => handleButtonClick("People")}
+                            style={{
+                                padding: '10px 40px',
+                                background: activeButton === "People" ? '#FF5722' : 'transparent',
+                                color: activeButton === "People" ? '#FFFFFF' : '',
+                            }}
                         />
-                        <ActionButton 
+                        <ActionButton
                             label="Business"
                             inverse={true}
-                            style={{padding: '10px 50px',}}
+                            onClick={() => handleButtonClick("Business")}
+                            style={{
+                                padding: '10px 40px',
+                                margin: '0 5px',
+                                background: activeButton === "Business" ? '#FF5722' : 'transparent',
+                                color: activeButton === "Business" ? '#FFFFFF' : '',
+                            }}
                         />
-                        <ActionButton 
+                        <ActionButton
                             label="Product"
                             inverse={true}
-                            style={{padding: '10px 50px',}}
+                            style={{ padding: '10px 40px', margin: '0 5px', }}
                         />
-                        <ActionButton 
+                        <ActionButton
                             label="Media"
                             inverse={true}
-                            style={{padding: '10px 50px',}}
+                            onClick={() => handleButtonClick("Media")}
+                            style={{
+                                padding: '10px 40px',
+                                margin: '0 5px',
+                                background: activeButton === "Media" ? '#FF5722' : 'transparent',
+                                color: activeButton === "Media" ? '#FFFFFF' : '',
+                            }}
                         />
-                        <ActionButton 
+                        <ActionButton
                             label="Places"
                             inverse={true}
-                            style={{padding: '10px 50px',}}
+                            onClick={() => handleButtonClick("Places")}
+                            style={{
+                                padding: '10px 40px',
+                                margin: '0 5px',
+                                background: activeButton === "Places" ? '#FF5722' : 'transparent',
+                                color: activeButton === "Places" ? '#FFFFFF' : '',
+                            }}
                         />
                     </div>
                     <div>
-                        <SearchResult />
-
+                        {renderSearchResult()}
                     </div>
                 </div>
-                <div style={{ padding: '20px', background: 'white', }}>
+                <div style={{ padding: '60px 20px', background: 'white', }}>
                     <ChatComponent />
                     <Inventory />
                 </div>
