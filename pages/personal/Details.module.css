@@ -1,0 +1,47 @@
+/* styles.css */
+.main {
+  background: url('/assets/details_bg.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+
+/* ImageUpload.module.css */
+.image-preview {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.image-preview img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+/* styles.module.css or styles.css */
+.button {
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+  color: rgb(0, 0, 0);
+  /* Button text color */
+  border: 1px solid grey;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  /* Add a transition for a hover effect */
+}
+
+
+.inputFile {
+  display: none;
+  /* Hide the actual file input */
+}
+
+
+
+/* Add media query to change the layout on smaller screens */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
