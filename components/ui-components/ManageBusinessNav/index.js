@@ -3,6 +3,7 @@ import ActionButton from '../ActionButton';
 import styles from './ManageBusinessNav.module.css'
 import { FaArrowLeft, FaBars } from 'react-icons/fa';
 import { useRouter } from 'next/router';
+import { AiOutlineFileText, AiOutlineSearch, AiOutlineNotification, AiOutlineLogin, AiOutlineLogout, AiOutlinePlusCircle } from "react-icons/ai";
 
 const ManageBusinessNav = () => {
     const router = useRouter();
