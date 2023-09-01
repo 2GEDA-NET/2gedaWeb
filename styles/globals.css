@@ -92,6 +92,7 @@ body {
   background-color: var(--color-sidebar-item);
   margin-bottom: 1rem;
   border-radius: 0.8rem;
+  cursor: pointer;
 }
 
 .sidebar__link--active {

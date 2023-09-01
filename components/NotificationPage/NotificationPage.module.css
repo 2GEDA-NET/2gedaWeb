@@ -1,0 +1,21 @@
+/* NotificationPage.module.css */
+.notificationPage {
+    position: fixed;
+    top: 0;
+    right: -25vw; /* Initially hidden outside the screen */
+    width: 25vw; /* Width of the sliding panel */
+    height: 100vh; /* Full height of the screen */
+    background-color: white; /* Set your desired background color */
+    transition: right 0.3s ease-in-out;
+    z-index: 1000; /* Make sure it's above other content */
+  }
+  
+  .open {
+    right: 0; /* Slide the panel in when it's open */
+  }
+  
+  /* Close button style */
+  .closeButton {
+    cursor: pointer;
+  }
+  

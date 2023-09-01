@@ -29,8 +29,8 @@ const Business = () => {
                     <HBanner hbanner={'/assets/businessVbanner.png/'} />
                     <Automobile />
                     <SuggestedBusiness />
-                    <FashionAndStyle />
-                    <KidsAndToy />
+                    {/* <FashionAndStyle /> */}
+                    {/* <KidsAndToy /> */}
                     <FurnitureAndDecoration />
                     <SkinCare />
                 </div>

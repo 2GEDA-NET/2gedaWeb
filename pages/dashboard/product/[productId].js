@@ -1,21 +1,39 @@
-// pages/product/[productId].js
-import { useRouter } from 'next/router';
-import ProductDescription from '@/components/ProductDescription'; // Adjust path as needed
-import trendingData from '@/data/trendingData'; // Import your product data
+import ProductDescription from '@/components/ProductDescription';
+import { useEffect, useState } from 'react';
 
 const ProductPage = () => {
-    const router = useRouter();
-    const { productId } = router.query;
+    const [categories, setCategories] = useState([]);
+    const [selectedCategory, setSelectedCategory] = useState(null);
+    const [filteredProducts, setFilteredProducts] = useState([]);
 
-    const product = trendingData.find(item => item.id === Number(productId));
+    useEffect(() => {
+        // Fetch categories and products from your API
+        fetch('https://api.2geda.net/store/outlet-items')
+            .then(response => response.json())
+            .then(data => {
+                setCategories(data.categories);
+                setFilteredProducts(data.items.trending);
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+    }, []);
 
-    if (!product) {
-        return <p>Product not found</p>;
-    }
+    const handleCategoryChange = categoryId => {
+        const productsInCategory = filteredProducts.filter(product =>
+            product.category.id === categoryId
+        );
+        setSelectedCategory(categoryId);
+        setFilteredProducts(productsInCategory);
+    };
 
     return (
         <div>
-            <ProductDescription product={product} />
+            <div>
+                {filteredProducts.map(product => (
+                    <ProductDescription key={product.id} product={product} />
+                ))}
+            </div>
         </div>
     );
 };

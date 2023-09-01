@@ -7,7 +7,7 @@ const ProductBox = ({ productData }) => {
         <div className={styles.card}>
             {productData.map(trending => (
                 <div key={trending.id}>
-                    <Link href={`/dashboard/product/${trending.id}`}>
+                    <Link href={`/dashboard/product/${trending.id}`} style={{textDecoration:'none', color:'black',}}>
                     <div>
                         {trending.attachment && trending.attachment.length > 0 && (
                             <img src={trending.attachment[0].path} alt={trending.product_name} style={{ width: '100px', height: '100px', borderRadius: '10px',}} />
