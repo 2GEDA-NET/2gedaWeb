@@ -18,7 +18,7 @@ const ProductDescription = ({ product }) => {
 
                 <div className={styles.container} style={{ display: 'flex', justifyContent: 'space-between', width: '60vw', }}>
                     <div>
-                        <img src={product.image} alt={product.product_name} height style={{ width: '400px', height: '400px', }} />
+                        <img src={product.attachment[0].path} alt={product.product_name} height style={{ width: '400px', height: '400px', }} />
                     </div>
                     <div style={{ margin: '0 50px', border: '2px solid black', width: '600vw', }}>
                         <div style={{}}>
