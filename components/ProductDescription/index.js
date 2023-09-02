@@ -1,5 +1,4 @@
-// ProductDescription.js
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import BaseLayout from '@/components/BaseLayout';
 import DashboardNavbar from '@/components/ui-components/DashboardNavBar';
 import ChatComponent from '@/components/ChatComponent';
@@ -11,6 +10,9 @@ import Link from 'next/link';
 
 
 const ProductDescription = ({ product }) => {
+    
+
+
     return (
         <BaseLayout>
             <DashboardNavbar />
@@ -23,35 +25,34 @@ const ProductDescription = ({ product }) => {
                     <div style={{ margin: '0 50px', border: '2px solid black', width: '600vw', }}>
                         <div style={{}}>
                             <div >
-                                <h1 style={{ fontSize: '1.5em', }}>{product.name}</h1>
+                                <h1 style={{ fontSize: '1.5em', }}>{product.product_name}</h1>
                             </div>
                             <div style={{ display: 'flex', justiftyContent: 'space-between', alignItem: 'bottom', margin: '10px 0', }}>
-                                <p style={{ fontSize: '0.9em', }}>{product.location}</p>
+                                <p style={{ fontSize: '0.9em', }}>{product.tagLocation}</p>
                                 <p style={{ color: '#4F0DA3', fontSize: '2em', fontFamily: 'Ubuntu', fontWeight: '700', marginLeft: '45%', }}>{product.price}</p>
                             </div>
                         </div>
                         {/* other images */}
                         <div style={{ display: 'flex', justifyContent: 'space-between', margin: '20px 180px 20px 0px', }}>
-                            <img src={product.otherImage1} alt={product.name} height style={{ width: '70px', height: '30px', }} />
-                            <img src={product.otherImage2} alt={product.name} height style={{ width: '70px', height: '30px', }} />
-                            <img src={product.otherImage3} alt={product.name} height style={{ width: '70px', height: '30px', }} />
-                            <img src={product.otherImage4} alt={product.name} height style={{ width: '70px', height: '30px', }} />
+                            <img src={product.attachment[0].path} alt={product.product_name} height style={{ width: '70px', height: '30px', }} />
+                            {/* <img src={product.attachment[1].path} alt={product.product_name} height style={{ width: '70px', height: '30px', }} />
+                            <img src={product.attachment[2].path} alt={product.product_name} height style={{ width: '70px', height: '30px', }} />
+                            <img src={product.attachment[3].path} alt={product.product_name} height style={{ width: '70px', height: '30px', }} />
+                            <img src={product.attachment[4].path} alt={product.product_name} height style={{ width: '70px', height: '30px', }} /> */}
                         </div>
-                        <div style={{margin: '20px 0',}}>
+                        <div style={{ margin: '20px 0', }}>
                             <h1 style={{ fontSize: '0.8em', }}>Product Description</h1>
                             <p>{product.desc}</p>
                         </div>
-                        <div style={{margin: '20px 0',}}>
+                        <div style={{ margin: '20px 0', }}>
                             <h1 style={{ fontSize: '0.8em', }}>About Business</h1>
                             <div>
-                                <img src={product.businessImg} alt={product.name} height style={{ width: '100px', height: '100px', }} />
+                                <img src={product.businessImg} alt={product.product_name} height style={{ width: '100px', height: '100px', }} />
                                 <div>
                                     <p>{product.business}</p>
                                     {product.businessLink && (
                                         <Link href={product.businessLink}>{product.businessProfile}</Link>
                                     )}
-
-
                                 </div>
                             </div>
                         </div>
