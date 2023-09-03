@@ -33,7 +33,7 @@ const ManageBusinessNav = () => {
                 <FaArrowLeft />
             </div>
             <div>
-                <form onSubmit={handleSearchSubmit} className={styles.searchForm}>
+                {/* <form onSubmit={handleSearchSubmit} className={styles.searchForm}>
                     <div className={styles.searchInputContainer}>
                         <input
                             type='search'
@@ -50,7 +50,7 @@ const ManageBusinessNav = () => {
                         />
                         <AiOutlineSearch className={styles.searchIcon} />
                     </div>
-                </form>
+                </form> */}
                 <p>Manage Business</p>
             </div>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', }}>
